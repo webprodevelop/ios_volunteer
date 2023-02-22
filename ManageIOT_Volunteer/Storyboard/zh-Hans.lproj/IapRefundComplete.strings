@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Refund Success"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "支付成功";
+
+/* Class = "UILabel"; text = "Refund is successful and the money will be returned to your payment account within 3 working days"; ObjectID = "cPs-2y-w9Z"; */
+"cPs-2y-w9Z.text" = "退款成功，钱款将在3个工作日内退回您的支付账户";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "hdQ-FE-F6c"; */
+"hdQ-FE-F6c.normalTitle" = "确 定";

@@ -1,0 +1,51 @@
+
+/* Class = "UITextField"; placeholder = "Height (cm)"; ObjectID = "1uQ-hl-hxr"; */
+"1uQ-hl-hxr.placeholder" = "请选择身高（cm）";
+
+/* Class = "UILabel"; text = "Height :"; ObjectID = "2JV-MV-sWf"; */
+"2JV-MV-sWf.text" = "身高 :";
+
+/* Class = "UILabel"; text = "Sex :"; ObjectID = "2y2-JV-D6u"; */
+"2y2-JV-D6u.text" = "性别 :";
+
+/* Class = "UILabel"; text = "Birth :"; ObjectID = "5kn-po-p6H"; */
+"5kn-po-p6H.text" = "生日 :";
+
+/* Class = "UILabel"; text = "Watch Info"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "设备信息";
+
+/* Class = "UILabel"; text = "Phone :"; ObjectID = "GCD-A0-U24"; */
+"GCD-A0-U24.text" = "电话 :";
+
+/* Class = "UILabel"; text = "Name :"; ObjectID = "LKS-zJ-xO0"; */
+"LKS-zJ-xO0.text" = "姓名 :";
+
+/* Class = "UITextField"; placeholder = "Weight (kg)"; ObjectID = "NF3-4M-ODz"; */
+"NF3-4M-ODz.placeholder" = "请选择体重（kg）";
+
+/* Class = "UITextField"; placeholder = "Phone number for your watch"; ObjectID = "SMh-oy-siE"; */
+"SMh-oy-siE.placeholder" = "请填写手表的电话号码";
+
+/* Class = "UITextField"; placeholder = "Name of the user (Max 5 Chars)"; ObjectID = "XCN-ag-5hu"; */
+"XCN-ag-5hu.placeholder" = "手表使用人姓名(最多5个字)";
+
+/* Class = "UITextField"; placeholder = "Select birthday"; ObjectID = "aBu-Px-y3K"; */
+"aBu-Px-y3K.placeholder" = "请选择出生日期";
+
+/* Class = "UILabel"; text = "Fill in watch user information"; ObjectID = "cPs-2y-w9Z"; */
+"cPs-2y-w9Z.text" = "请填写手表使用人信息";
+
+/* Class = "UILabel"; text = "Document Content"; ObjectID = "dnS-k4-lXm"; */
+"dnS-k4-lXm.text" = "显示文案显示文案显示文案";
+
+/* Class = "UILabel"; text = "Weight :"; ObjectID = "e6E-PK-rM7"; */
+"e6E-PK-rM7.text" = "体重 :";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "hdQ-FE-F6c"; */
+"hdQ-FE-F6c.normalTitle" = "继 续";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "iz4-x4-1tZ"; */
+"iz4-x4-1tZ.text" = "男";
+
+/* Class = "UILabel"; text = "W"; ObjectID = "ksv-aT-tS8"; */
+"ksv-aT-tS8.text" = "女";

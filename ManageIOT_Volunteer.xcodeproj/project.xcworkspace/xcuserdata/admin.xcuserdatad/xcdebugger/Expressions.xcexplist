@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RequestPost&lt;A&gt;.init&lt;A&gt;(url:method:):RequestPost.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.urlRequest.httpBody">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "API.login(dataReq:completion:):API.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewControllerLogin.tryLogin():ViewControllerLogin.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NSURLSession.load&lt;A&gt;(_:completion:):URLSession+Extension.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

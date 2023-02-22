@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "4p9-3h-Tgm"; */
+"4p9-3h-Tgm.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "{WatchName} SOS rescue request has been issued."; ObjectID = "A9o-6k-faK"; */
+"A9o-6k-faK.text" = "{手表姓名}的手表发起了SOS救援请求.";
+
+/* Class = "UILabel"; text = "2020-05-05 15:15:15"; ObjectID = "WVN-pq-pca"; */
+"WVN-pq-pca.text" = "2020-05-05 15:15:15";
+
+/* Class = "UILabel"; text = "SOS Request Time:"; ObjectID = "dWJ-Xg-8wh"; */
+"dWJ-Xg-8wh.text" = "SOS救援请求时间:";
+
+/* Class = "UILabel"; text = "SOS Request"; ObjectID = "tEE-yS-arE"; */
+"tEE-yS-arE.text" = "SOS救援请求";

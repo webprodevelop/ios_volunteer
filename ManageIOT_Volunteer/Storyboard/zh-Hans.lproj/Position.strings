@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7md-cD-o7s"; */
+"7md-cD-o7s.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2020-05-13 12:35:57"; ObjectID = "98n-Ii-HqB"; */
+"98n-Ii-HqB.text" = "2020-05-13 12:35:57";
+
+/* Class = "UILabel"; text = "JangSam HandPhone"; ObjectID = "K55-2S-1Pz"; */
+"K55-2S-1Pz.text" = "张三的手环";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Q2u-9I-6GC"; */
+"Q2u-9I-6GC.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "JangSam HandPhone"; ObjectID = "XXp-zJ-5Lm"; */
+"XXp-zJ-5Lm.text" = "张三的手环";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "b99-p1-ok8"; */
+"b99-p1-ok8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Track"; ObjectID = "e9T-c6-9Mj"; */
+"e9T-c6-9Mj.text" = "轨迹";
+
+/* Class = "UILabel"; text = "18-23 Longtou Dandong Zhenxing Liaoning"; ObjectID = "gRb-8D-DtZ"; */
+"gRb-8D-DtZ.text" = "辽宁省丹东市振兴区锦山大街252号";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "k6E-S9-of1"; */
+"k6E-S9-of1.text" = "设置";
+
+/* Class = "UILabel"; text = "18-23 Longtou Dandong Zhenxing Liaoning"; ObjectID = "nL8-rf-j74"; */
+"nL8-rf-j74.text" = "辽宁省丹东市振兴区锦山大街252号";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uY5-fW-kf5"; */
+"uY5-fW-kf5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "The device is offline, can not get location info"; ObjectID = "NhY-ya-mzY"; */
+"NhY-ya-mzY.text" = "手表离线，无法获取位置信息";

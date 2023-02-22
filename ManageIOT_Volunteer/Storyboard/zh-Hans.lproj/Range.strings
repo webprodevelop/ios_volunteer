@@ -1,0 +1,24 @@
+
+/* Class = "UITextField"; placeholder = "number (t/m)"; ObjectID = "7aR-1q-cEA"; */
+"7aR-1q-cEA.placeholder" = "请输入数值（次/分钟）";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "FU7-Ea-QaE"; */
+"FU7-Ea-QaE.normalTitle" = "取消";
+
+/* Class = "UITextField"; placeholder = "number (t/m)"; ObjectID = "VaD-hy-Kus"; */
+"VaD-hy-Kus.placeholder" = "请输入数值（次/分钟）";
+
+/* Class = "UILabel"; text = "Minimum :"; ObjectID = "gvJ-a5-gO2"; */
+"gvJ-a5-gO2.text" = "最小值 :";
+
+/* Class = "UILabel"; text = "Range for Heart Rate Alert"; ObjectID = "l2Z-jM-HPT"; */
+"l2Z-jM-HPT.text" = "当测量的心率超出设置范围时，系统将提示您";
+
+/* Class = "UILabel"; text = "Range for Heart Rate"; ObjectID = "vnu-Yg-WM4"; */
+"vnu-Yg-WM4.text" = "心率异常提示范围设置";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "y7f-mk-MW5"; */
+"y7f-mk-MW5.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "Maximum :"; ObjectID = "z7d-XX-XLe"; */
+"z7d-XX-XLe.text" = "最大值 :";

@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Cross Road No 1234"; ObjectID = "1vi-ST-P0w"; */
+"1vi-ST-P0w.text" = "Cross Road No 1234";
+
+/* Class = "UILabel"; text = "2020-08-24 15:30:45"; ObjectID = "BKR-4q-IWu"; */
+"BKR-4q-IWu.text" = "2020-08-24 15:30:45";
+
+/* Class = "UILabel"; text = "Heart Rate 30/min"; ObjectID = "EKC-vo-rkz"; */
+"EKC-vo-rkz.text" = "Heart Rate 30/min";
+
+/* Class = "UILabel"; text = "(15S)"; ObjectID = "Izg-Ly-KW9"; */
+"Izg-Ly-KW9.text" = "(15S)";
+
+/* Class = "UILabel"; text = "位置:"; ObjectID = "RPh-ZR-bk0"; */
+"RPh-ZR-bk0.text" = "位置:";
+
+/* Class = "UITextView"; text = "Task content: Please arrive at the door "; ObjectID = "UdD-cf-x3I"; */
+"UdD-cf-x3I.text" = "Task content: Please arrive at the door ";
+
+/* Class = "UILabel"; text = "发生时间 :"; ObjectID = "VPI-oZ-Wgu"; */
+"VPI-oZ-Wgu.text" = "发生时间 :";
+
+/* Class = "UILabel"; text = "体征状态:"; ObjectID = "Y9R-SY-4eE"; */
+"Y9R-SY-4eE.text" = "体征状态:";
+
+/* Class = "UILabel"; text = "SOS Rescue Request"; ObjectID = "avX-j7-DGj"; */
+"avX-j7-DGj.text" = "SOS Rescue Request";
+
+/* Class = "UIButton"; normalTitle = "拒接任务"; ObjectID = "fRd-Vp-X14"; */
+"fRd-Vp-X14.normalTitle" = "拒接任务";
+
+/* Class = "UIButton"; normalTitle = "开始任务"; ObjectID = "mxW-Nr-quk"; */
+"mxW-Nr-quk.normalTitle" = "开始任务";
+
+/* Class = "UILabel"; text = "警情状态:"; ObjectID = "vnu-Yg-WM4"; */
+"vnu-Yg-WM4.text" = "警情状态:";

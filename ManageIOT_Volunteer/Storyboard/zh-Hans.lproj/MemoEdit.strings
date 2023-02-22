@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Sat"; ObjectID = "0FB-Ad-jdv"; */
+"0FB-Ad-jdv.text" = "周六";
+
+/* Class = "UILabel"; text = "Thu"; ObjectID = "3F9-aG-auu"; */
+"3F9-aG-auu.text" = "周四";
+
+/* Class = "UILabel"; text = "Mon"; ObjectID = "9KM-fy-Qln"; */
+"9KM-fy-Qln.text" = "周一";
+
+/* Class = "UILabel"; text = "New Memory"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "新增备忘录";
+
+/* Class = "UILabel"; text = "Repeat"; ObjectID = "HL3-Ub-tFY"; */
+"HL3-Ub-tFY.text" = "重复";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "Iwq-FK-Egz"; */
+"Iwq-FK-Egz.text" = "时间";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "LFB-T5-rfY"; */
+"LFB-T5-rfY.text" = "周五";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "LKS-zJ-xO0"; */
+"LKS-zJ-xO0.text" = "名称";
+
+/* Class = "UILabel"; text = "No repeat"; ObjectID = "UxF-h8-ioT"; */
+"UxF-h8-ioT.text" = "不重复";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "WFY-yl-NAt"; */
+"WFY-yl-NAt.text" = "周日";
+
+/* Class = "UITextField"; placeholder = "Click and Input"; ObjectID = "XCN-ag-5hu"; */
+"XCN-ag-5hu.placeholder" = "点击输入";
+
+/* Class = "UILabel"; text = "Tue"; ObjectID = "gN0-C7-18J"; */
+"gN0-C7-18J.text" = "周二";
+
+/* Class = "UILabel"; text = "Wed"; ObjectID = "gTN-Na-Ppb"; */
+"gTN-Na-Ppb.text" = "周三";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "hdQ-FE-F6c"; */
+"hdQ-FE-F6c.normalTitle" = "确 定";
+
+/* Class = "UILabel"; text = "Tips"; ObjectID = "hxk-z0-uD2"; */
+"hxk-z0-uD2.text" = "提示";
+
+/* Class = "UITextField"; placeholder = "Click and Choose"; ObjectID = "p9U-j3-Y2c"; */
+"p9U-j3-Y2c.placeholder" = "点击选择";
+
+/* Class = "UITextField"; placeholder = "(Optional)Click and Input"; ObjectID = "pcC-hl-2gU"; */
+"pcC-hl-2gU.placeholder" = "（选填）点击输入";

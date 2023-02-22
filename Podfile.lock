@@ -1,0 +1,96 @@
+PODS:
+  - AlipaySDK-iOS (15.7.9)
+  - BaiduMapKit (6.3.1):
+    - BaiduMapKit/Base (= 6.3.1)
+    - BaiduMapKit/Cloud (= 6.3.1)
+    - BaiduMapKit/Map (= 6.3.1)
+    - BaiduMapKit/Search (= 6.3.1)
+    - BaiduMapKit/Utils (= 6.3.1)
+  - BaiduMapKit/Base (6.3.1)
+  - BaiduMapKit/Cloud (6.3.1):
+    - BaiduMapKit/Base
+  - BaiduMapKit/Map (6.3.1):
+    - BaiduMapKit/Base
+  - BaiduMapKit/Search (6.3.1):
+    - BaiduMapKit/Base
+  - BaiduMapKit/Utils (6.3.1):
+    - BaiduMapKit/Base
+  - DropDown (2.3.13)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - IQKeyboardManagerSwift (6.5.6)
+  - JuphoonCloudSDK_iOS (2.7.1):
+    - JuphoonCloudSDK_iOS/include (= 2.7.1)
+  - JuphoonCloudSDK_iOS/include (2.7.1):
+    - JuphoonCloudSDK_iOS/include/avatar (= 2.7.1)
+    - JuphoonCloudSDK_iOS/include/grape (= 2.7.1)
+    - JuphoonCloudSDK_iOS/include/lemon (= 2.7.1)
+  - JuphoonCloudSDK_iOS/include/avatar (2.7.1):
+    - JuphoonCloudSDK_iOS/include/avatar/zos (= 2.7.1)
+  - JuphoonCloudSDK_iOS/include/avatar/zos (2.7.1):
+    - JuphoonCloudSDK_iOS/include/avatar/zos/os (= 2.7.1)
+  - JuphoonCloudSDK_iOS/include/avatar/zos/os (2.7.1):
+    - JuphoonCloudSDK_iOS/include/avatar/zos/os/os (= 2.7.1)
+  - JuphoonCloudSDK_iOS/include/avatar/zos/os/os (2.7.1)
+  - JuphoonCloudSDK_iOS/include/grape (2.7.1)
+  - JuphoonCloudSDK_iOS/include/lemon (2.7.1):
+    - JuphoonCloudSDK_iOS/include/lemon/mtc (= 2.7.1)
+  - JuphoonCloudSDK_iOS/include/lemon/mtc (2.7.1)
+  - MarqueeLabel (4.3.0)
+  - Realm (10.32.3):
+    - Realm/Headers (= 10.32.3)
+  - Realm/Headers (10.32.3)
+  - RealmSwift (10.32.3):
+    - Realm (= 10.32.3)
+  - SwiftyJSON (5.0.1)
+  - WechatOpenSDK (1.8.7.1)
+  - ZXingObjC (3.6.5):
+    - ZXingObjC/All (= 3.6.5)
+  - ZXingObjC/All (3.6.5)
+
+DEPENDENCIES:
+  - AlipaySDK-iOS (= 15.7.9)
+  - BaiduMapKit (= 6.3.1)
+  - DropDown (= 2.3.13)
+  - FMDB (= 2.7.5)
+  - IQKeyboardManagerSwift (= 6.5.6)
+  - JuphoonCloudSDK_iOS (= 2.7.1)
+  - MarqueeLabel (= 4.3.0)
+  - RealmSwift (= 10.32.3)
+  - SwiftyJSON (= 5.0.1)
+  - WechatOpenSDK (= 1.8.7.1)
+  - ZXingObjC (= 3.6.5)
+
+SPEC REPOS:
+  trunk:
+    - AlipaySDK-iOS
+    - BaiduMapKit
+    - DropDown
+    - FMDB
+    - IQKeyboardManagerSwift
+    - JuphoonCloudSDK_iOS
+    - MarqueeLabel
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+    - WechatOpenSDK
+    - ZXingObjC
+
+SPEC CHECKSUMS:
+  AlipaySDK-iOS: 94ff4c0e17c5e7d126b8207596d5033006534c25
+  BaiduMapKit: 40ccaf53ad83c187d8c9ccbeb9851fab8194da64
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  JuphoonCloudSDK_iOS: 9df1c0cdff15d13e28fb5ffab0e6e304f103b837
+  MarqueeLabel: 02f5ac8fd6877c94564556cb93fa86c70c08baeb
+  Realm: fdf6732924dc5e69e30e0db2c11e869f92b53f3d
+  RealmSwift: 7c181da8fa1c2fe613656a77c198d6a3dc3879a1
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  WechatOpenSDK: 6a4d1436c15b3b5fe2a0bd383f3046010186da44
+  ZXingObjC: fdbb269f25dd2032da343e06f10224d62f537bdb
+
+PODFILE CHECKSUM: e13eea82e2062677e6d2ea0443e89a0ac4d42a9c
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,280 @@
+/* AppDelegate */
+"Payment has been successfully completed." = "付款已圆满完成.";
+"Payment has been failed." = "付款失败.";
+
+/* Api */
+"No data" = "没有资料";
+
+/* ViewControllerLogin */
+"OK" = "确认";
+"Success to login!" = "登录成功";
+"Notice" = "温馨提示";
+"Phone number is not correct" = "手机号不正确";
+
+/* ViewControllerRegister */
+/* ViewControllerForgot */
+"Get Code" = "获取验证码";
+"Password has been changed!" = "密码已更改!";
+"You are registered!" = "注册成功!";
+
+/* ViewControllerMain */
+"Health" = "健康";
+"Devices" = "设备";
+"News" = "发现";
+"DoorKeeper" = "守门狗服务";
+"Manage Device" = "设备管理";
+"Mine" = "我 的";
+"Position" = "位置";
+"Position Info" = "位置信息";
+"There is no monitoring smartwatch" = "没有智能手表监测";
+"You have no permission" = "当前账号非设备管理员账号，没有设备信息设置权限";
+"Notify" = "提示";
+"'s reminder service period has expired and device data and notification cannot be obtained. Please extend the service period." = "的手表网络通知提醒服务期已过期，无法获得设备数据和通知，请延长服务期.";
+"Hotspot" = "热点推荐";
+"Sense" = "急救常识";
+"Petbite" = "急救常识";
+"Wait for Task" = "等待任务";
+"Confirm Rescue" = "救援确认";
+"The task is finished in the service." = "任务完成了.";
+"The task is canceled in the service." = "任务取消了.";
+"The new version is up. Please download the installation from the app market." = "新版本已上架了，请到应用市场下载安装";
+"Payment" = "支付管理";
+
+/* ViewControllerWatch */
+"Monitoring" = "当前监控";
+"Set to default" = "设为默认监控";
+
+/* ViewControllerRate */
+"Record Date" = "测量日期";
+"Record Time" = "测量时间";
+"Rate" = "心率";
+
+/* CellMemory */
+"Mon" = "周一";
+"Tue" = "周二";
+"Wed" = "周三";
+"Thu" = "周四";
+"Fri" = "周五";
+"Sat" = "周六";
+"Sun" = "周日";
+
+/* ViewControllerMemoEdit */
+"New Memory" = "新增备忘录";
+"Edit Memory" = "修改备忘录";
+"No repeat" = "不重复";
+"Mo" = "一";
+"Tu" = "二";
+"We" = "三";
+"Th" = "四";
+"Fr" = "五";
+"Sa" = "六";
+"Su" = "日";
+
+/* ViewControllerQrCode */
+"Watch > Settings > QR code" = "手表 > 设置 > 二维码";
+"设备底部，电池位置的上方";
+
+/* ViewControllerPersonal */
+"Personal" = "个人资料";
+"Choose Date" = "选择日期";
+"Done" = "确定";
+"Cancel" = "取消";
+"Enter (Required)" = "点击输入（必填）";
+"Successfully updated!" = "更新成功!";
+"Fill in necessary fields" = "点击输入（必填）";
+"Birthday" = "出生日期";
+"Residence" = "常住地";
+"Doctor" = "医生";
+"Nurse" = "护士";
+"Teacher" = "教师";
+"Communicator" = "通信";
+"Other" = "其他";
+"Company" = "单位";
+"Phone Number" = "联系电话";
+
+/* ImagePickerManager */
+"Camera" = "拍 照";
+"Gallery" = "相 册";
+"Choose Image" = "选择图象";
+"Can't access camera!" = "不能进入照相机!";
+
+/* ViewControllerPassword */
+
+/* ViewControllerDevice */
+"Group SmartWatch" = "智能手表";
+"Group FireSensor" = "物联网烟感报警器";
+"Group SmokeSensor" = "物联网燃气报警器";
+"No device, please add" = "暂无设备，现在添加";
+
+/* CellDevice */
+"Normal" = "正常";
+"Offline" = "离线";
+"Alarmed" = "报警";
+"Not alarmed" = "未报警";
+"Low power" = "低电量";
+"Unknown" = "未知";
+"Network :" = "联网状态 :";
+"Battery :" = "剩余电量 :";
+"Power :" = "工作状态 :";
+"Alarm :" = "报警状态 :";
+"Defer" = "去延期";
+"Detail" = "详情";
+
+/* ViewControllerRange */
+"Values are not correct" = "价值观不正确";
+
+/* ViewControllerContact */
+"There is no smartwatch bound" = "没有什么智能手表是受束缚的";
+
+/* ViewControllerAccount */
+"Please fill in fields" = "请填写输入栏";
+
+/* ViewControllerInfoMore */
+"Blood Type" = "血型";
+
+/* ViewControllerHealth */
+"t/m" = "次/分钟";
+"Updated" = "更新时间";
+"Normal Rate" = "正常心率区间";
+
+/* ViewControllerNotification */
+"Strongly recommend that you turn on full alert authorisation! Do you really want to turn off alert?" = "强烈建议您开启全部提醒授权! 你真的想关闭警报吗?";
+
+/* ViewControllerInfoWatch */
+"Tall" = "身高";
+"Weight" = "体重";
+
+/* ViewControllerWeather */
+"Temperature:" = "今日气温:";
+"update" = "更新";
+
+/* ViewControllerIapDetail */
+"RMB" = "元";
+"Alipay" = "支付宝";
+"Wechat" = "微信";
+"Y" = "年";
+
+/* ViewControllerFence */
+"Radius" = "半径";
+"M" = "米";
+"TimePicker" = "择时";
+"Electric Fence Name" = "电子围栏名称";
+"Input Electric Fence Name" = "请输入电子围栏名称";
+"Fence Name" = "电子围栏名称";
+"Start Time" = "请选择开始时间";
+"End Time" = "请选择结束时间";
+
+/* ViewControllerAlarm */
+"DatePicker" = "择日";
+
+/* ViewControllerBindComplete */
+"The device has been provided with" = "该设备已获得";
+"days of free network notification reminder service, which lasts from:" = "天免费网络通知提醒服务，免费网络通知提醒服务期为:";
+"to" = "至";
+
+/* WWCalendarTimeSelector */
+"年" = "年";
+"日" = "日";
+
+/* ViewControllerCashIn */
+"CashIn amount is " = "本次可提现金额";
+"Alipay account has not been set." = "支付宝账户尚未确定.";
+"Wechat account has not been set." = "微信账户尚未确定.";
+"Bank account has not been set." = "银行账户尚未确定.";
+
+/* ViewControllerCashInHistory */
+"CashIn History" = "提现记录";
+"Review" = "审核中";
+
+/* ViewControllerIntegralRule */
+"Integral Rule" = "积分规则";
+"Perfect personal information for 1 point" = "完善个人信息获得1积分";
+"View the article for 1 point" = "查看文章获得1积分";
+"An hour of online time for 10 points" = "在线时长1小时获得10积分";
+"Rescue mission with AED equipment for 100 points" = "救援任务去AED设备获得100积分";
+"10 rescue attempts for 50 points" = "救援10次额外获得50积分";
+"100 hours of online time for 10 points" = "在线时长100小时获得10积分";
+"100 rescue attempts for 500 points" = "救援100次额外获得500积分";
+"150 hours of online time for 10 points" = "在线时长150小时获得10积分";
+"Rescue mission led the ambulance for 90 points" = "救援任务引导救护车获得90积分";
+"1000 rescue attempts for 500 points" = "救援1000次额外获得奖励500积分";
+
+/* ViewControllerRescueQuery */
+"Rescue Query" = "救援查询";
+"End" = "结束";
+
+/* ViewControllerRescueDetail */
+"Rescue Detail" = "详细信息";
+
+/* ViewControllerRescueProcess */
+"Rescue Process" = "过程查看";
+"Notification Time"         = "平台通知时间";
+"Task Start Time"           = "开始任务时间";
+"Device Task Time"          = "取设备任务下达时间";
+"Device Start Time"         = "取设备任务开始时间";
+"Device End Time"           = "取设备任务结束时间";
+"Ambulance Start Time"      = "引导救护车任务下达时间";
+"Ambulance Reception Time"  = "引导救护车任务接收时间";
+"Ambulance Guided Time"     = "引导救护车任务到达现场";
+"Contact Customer Time"     = "联系客服";
+"Contact Agency Time"       = "联系救援机构";
+"Terminate Time"            = "任务结束";
+
+"Notification" = "平台通知时间";
+"Contact"      = "联系人姓名";
+"Phone"        = "联络电话";
+"Task"         = "任务内容";
+"Alarm"        = "警钟内容";
+"Device"       = "设备类型";
+"Serial"       = "设备序号";
+"Point"        = "任务积分";
+"Create"       = "任务开始时间";
+"Finish"       = "任务结束时间";
+
+/* ViewControllerBankAccount */
+"Bank Account" = "银行账户";
+"Alipay Account" = "支付宝账户";
+"Wechat Account" = "微信账户";
+
+/* ViewControllerBankCard */
+"Manually" = "手动添加";
+"Please fill in the contents" = "请把内容填满";
+
+/* ViewControllerBankPassword */
+"Modify Password" = "修改密码";
+"Verify Code is incorrect" = "验证码错了";
+
+/* ViewControllerTaskProgress */
+"New Task" = "新任务";
+"Volunteer" = "志愿者";
+/*"Your rescue mission has been completed.Thank you for your help. I wish you a happy life." = "您本次救援任务已完成.感谢您的援助,祝您生活幸福.";*/
+"Your rescue mission has been completed.Thank you for your help. I wish you a happy life." = "报警救援已结束";
+"Confirm" = "确定";
+"Doubt" = "疑问";
+"Are you sure you want to abandon this mission?" = "您确定放弃本次任务吗?";
+"Tip: Quitting task ahead of time for no reason, it affects the safety of rescuer and also the individual grade." = "提示:无故提前退出任务不仅会影响求救者生命安全,还会影响个人等级.";
+"You" = "你";
+
+/* ViewControllerIntegralGrade */
+"Integral Degree" = "积分等级";
+"Insufficient" = "不够";
+"Your balance is not sufficient." = "你的结余不足.";
+
+
+/* ViewControllerMine */
+"Current Version" = "当前版本";
+
+/* ViewControllerPayment */
+"Bind" = "绑定";
+"Unbind" = "解绑";
+
+/* ViewControllerUnbindPayment */
+"Invalid Code" = "无效验证码";
+
+/* ViewControllerMessage */
+"Do you want to delete it?" = "确定是否删除？";
+"Do you want to delete all messages?" = "确定是否全部删除？";
+"Do you want to read all messages?" = "你确定要读所有的留言吗？";
+
+/* URLSession */
+"You logged in on another device" = "账号已在其他设备登陆";

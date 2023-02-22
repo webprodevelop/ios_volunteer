@@ -1,0 +1,45 @@
+
+/* Class = "UITextField"; placeholder = "Detailed Address"; ObjectID = "1uQ-hl-hxr"; */
+"1uQ-hl-hxr.placeholder" = "详细地址";
+
+/* Class = "UILabel"; text = "Detail Addr :"; ObjectID = "5kn-po-p6H"; */
+"5kn-po-p6H.text" = "详细地址 :";
+
+/* Class = "UILabel"; text = "Additional Info"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "附加信息";
+
+/* Class = "UILabel"; text = "Address :"; ObjectID = "GCD-A0-U24"; */
+"GCD-A0-U24.text" = "住址 :";
+
+/* Class = "UILabel"; text = "Name of Disease"; ObjectID = "KNX-Xw-Va0"; */
+"KNX-Xw-Va0.text" = "病症名称";
+
+/* Class = "UILabel"; text = "Blood :"; ObjectID = "LKS-zJ-xO0"; */
+"LKS-zJ-xO0.text" = "血型 :";
+
+/* Class = "UILabel"; text = "Name of Disease"; ObjectID = "Oeu-Sd-bvu"; */
+"Oeu-Sd-bvu.text" = "病症名称";
+
+/* Class = "UITextField"; placeholder = "Residental Address"; ObjectID = "SMh-oy-siE"; */
+"SMh-oy-siE.placeholder" = "请在地图上选择位置";
+
+/* Class = "UILabel"; text = "Name of Disease"; ObjectID = "VbY-mr-lsF"; */
+"VbY-mr-lsF.text" = "病症名称";
+
+/* Class = "UITextField"; placeholder = "Blood Type"; ObjectID = "XCN-ag-5hu"; */
+"XCN-ag-5hu.placeholder" = "选择血型";
+
+/* Class = "UITextField"; placeholder = "Detailed Address"; ObjectID = "aBu-Px-y3K"; */
+"aBu-Px-y3K.placeholder" = "详细地址";
+
+/* Class = "UILabel"; text = "Fill in below information to enable timely relief"; ObjectID = "cPs-2y-w9Z"; */
+"cPs-2y-w9Z.text" = "请填写下列信息以便于在紧急情况下获得更及时的救助";
+
+/* Class = "UILabel"; text = "History :"; ObjectID = "e6E-PK-rM7"; */
+"e6E-PK-rM7.text" = "病史 :";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "hdQ-FE-F6c"; */
+"hdQ-FE-F6c.normalTitle" = "完 成";
+
+/* Class = "UILabel"; text = "Name of Disease"; ObjectID = "iz4-x4-1tZ"; */
+"iz4-x4-1tZ.text" = "病症名称";

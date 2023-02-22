@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="JCParticipantViewController" customModule="JuphoonRoom" customModuleProvider="target">
+            <connections>
+                <outlet property="tableView" destination="NPQ-Xq-Ql0" id="V90-uE-QKU"/>
+                <outlet property="titleLabel" destination="7oG-KO-Mkk" id="gVX-R0-Z80"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="60" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="NPQ-Xq-Ql0">
+                    <rect key="frame" x="0.0" y="44" width="414" height="692"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="ivv-wn-pCl"/>
+                        <outlet property="delegate" destination="-1" id="Aw5-Sh-e4S"/>
+                    </connections>
+                </tableView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="S3D-td-Ze7">
+                    <rect key="frame" x="20" y="0.0" width="44" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="44" id="2Na-LL-Htx"/>
+                        <constraint firstAttribute="height" constant="44" id="fNq-Dv-MYb"/>
+                    </constraints>
+                    <state key="normal" backgroundImage="jc_main_back.png"/>
+                    <connections>
+                        <action selector="backAction:" destination="-1" eventType="touchUpInside" id="LY6-h5-GfA"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7oG-KO-Mkk">
+                    <rect key="frame" x="186.33333333333334" y="11.999999999999998" width="41.666666666666657" height="20.333333333333329"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xx9-qP-Jf0">
+                    <rect key="frame" x="355" y="0.0" width="44" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="44" id="Weu-7x-Goa"/>
+                        <constraint firstAttribute="height" constant="44" id="fCa-gV-M6H"/>
+                    </constraints>
+                    <state key="normal" image="add"/>
+                    <connections>
+                        <action selector="addPart:" destination="-1" eventType="touchUpInside" id="Lb9-8f-xZG"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="7oG-KO-Mkk" firstAttribute="centerX" secondItem="fnl-2z-Ty3" secondAttribute="centerX" id="1Dn-kM-TKk"/>
+                <constraint firstItem="7oG-KO-Mkk" firstAttribute="centerY" secondItem="S3D-td-Ze7" secondAttribute="centerY" id="CSc-At-bSH"/>
+                <constraint firstItem="S3D-td-Ze7" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="20" id="LaV-cl-JDz"/>
+                <constraint firstItem="NPQ-Xq-Ql0" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="NPq-7K-ERW"/>
+                <constraint firstItem="Xx9-qP-Jf0" firstAttribute="centerY" secondItem="S3D-td-Ze7" secondAttribute="centerY" id="TYd-Zj-gsg"/>
+                <constraint firstItem="S3D-td-Ze7" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="V6O-hr-ke4"/>
+                <constraint firstItem="NPQ-Xq-Ql0" firstAttribute="top" secondItem="S3D-td-Ze7" secondAttribute="bottom" id="ZKY-6s-YCn"/>
+                <constraint firstAttribute="bottom" secondItem="NPQ-Xq-Ql0" secondAttribute="bottom" id="bdQ-0n-Kh2"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="Xx9-qP-Jf0" secondAttribute="trailing" constant="15" id="dPn-kE-s0M"/>
+                <constraint firstItem="NPQ-Xq-Ql0" firstAttribute="trailing" secondItem="fnl-2z-Ty3" secondAttribute="trailing" id="dqQ-pl-EWe"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <point key="canvasLocation" x="137.68115942028987" y="89.673913043478265"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="add" width="32" height="32"/>
+        <image name="jc_main_back.png" width="40" height="40"/>
+    </resources>
+</document>

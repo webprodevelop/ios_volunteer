@@ -1,0 +1,11 @@
+framework module JuphoonCommon {
+  umbrella header "JuphoonCommon.h"
+
+  export *
+  module * { export * }
+}
+
+module JuphoonCommon.Swift {
+    header "JuphoonCommon-Swift.h"
+    requires objc
+}

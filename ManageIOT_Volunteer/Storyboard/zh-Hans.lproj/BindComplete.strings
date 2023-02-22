@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Bind Success"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "绑定成功";
+
+/* Class = "UILabel"; text = "Bind Success"; ObjectID = "cPs-2y-w9Z"; */
+"cPs-2y-w9Z.text" = "绑定成功";
+
+/* Class = "UILabel"; text = "The device has been provided with {n} days of free network notification reminder service, which lasts from: 2020-05-30 to 2020-11-30"; ObjectID = "f4z-NV-rWL"; */
+"f4z-NV-rWL.text" = "该设备已获得{n}天免费网络通知提醒服务，免费网络通知提醒服务期为：2020-05-30至2020-11-30";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "hdQ-FE-F6c"; */
+"hdQ-FE-F6c.normalTitle" = "确 定";

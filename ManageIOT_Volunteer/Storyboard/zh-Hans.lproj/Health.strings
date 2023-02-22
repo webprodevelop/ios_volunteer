@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "t/m"; ObjectID = "3h2-1c-5p2"; */
+"3h2-1c-5p2.text" = "次/分钟";
+
+/* Class = "UILabel"; text = "Normal Rate: 60 ~ 100 t/m"; ObjectID = "9A9-S0-mBF"; */
+"9A9-S0-mBF.text" = "正常心率区间: 60~100 次/分钟";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "FKT-xN-O5b"; */
+"FKT-xN-O5b.text" = "0";
+
+/* Class = "UILabel"; text = "70"; ObjectID = "Mae-eG-ffB"; */
+"Mae-eG-ffB.text" = "70";
+
+/* Class = "UILabel"; text = "Max Rate :"; ObjectID = "Pfe-uk-neN"; */
+"Pfe-uk-neN.text" = "最高心率 :";
+
+/* Class = "UIButton"; normalTitle = "Weather"; ObjectID = "Txr-5N-nRq"; */
+"Txr-5N-nRq.normalTitle" = "天气";
+
+/* Class = "UILabel"; text = "Updated: 2020-01-01 00:00:00"; ObjectID = "YfY-Jg-0dT"; */
+"YfY-Jg-0dT.text" = "更新时间：2020-01-01  00:00:00";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "auD-12-XlH"; */
+"auD-12-XlH.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "65 t/m"; ObjectID = "dcd-qv-ORG"; */
+"dcd-qv-ORG.text" = "0 次/分钟";
+
+/* Class = "UILabel"; text = "112 t/m"; ObjectID = "h2N-3K-SA5"; */
+"h2N-3K-SA5.text" = "0 次/分钟";
+
+/* Class = "UIButton"; normalTitle = "2020-01-01"; ObjectID = "ihd-mC-ove"; */
+"ihd-mC-ove.normalTitle" = "2020-01-01";
+
+/* Class = "UIButton"; normalTitle = "Advice"; ObjectID = "j7R-Cf-I0f"; */
+"j7R-Cf-I0f.normalTitle" = "健康提示";
+
+/* Class = "UIButton"; normalTitle = "Watch >"; ObjectID = "mvA-Fx-Hly"; */
+"mvA-Fx-Hly.normalTitle" = "手表 >";
+
+/* Class = "UILabel"; text = "Min Rate :"; ObjectID = "p97-H8-cCo"; */
+"p97-H8-cCo.text" = "健康提示 :";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "tbl-nb-FXl"; */
+"tbl-nb-FXl.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "ubC-hr-PvJ"; */
+"ubC-hr-PvJ.text" = "心率";
+
+/* Class = "UILabel"; text = "No data, Please bind watch"; ObjectID = "yLv-2Q-bxt"; */
+"yLv-2Q-bxt.text" = "暂无数据，请绑定手表";

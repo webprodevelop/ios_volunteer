@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "0º"; ObjectID = "4kG-z4-zWw"; */
+"4kG-z4-zWw.text" = "0º";
+
+/* Class = "UILabel"; text = "Shine"; ObjectID = "66G-QD-XQx"; */
+"66G-QD-XQx.text" = "晴";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "9Ow-20-4u3"; */
+"9Ow-20-4u3.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Info"; ObjectID = "Gls-Ce-Q6O"; */
+"Gls-Ce-Q6O.normalTitle" = "Info";
+
+/* Class = "UILabel"; text = "Temperature: 0º ~ 0º"; ObjectID = "cbu-QM-mau"; */
+"cbu-QM-mau.text" = "今日气温: 0º ~ 0º";
+
+/* Class = "UILabel"; text = "JinHung 00:00 update"; ObjectID = "l2Z-jM-HPT"; */
+"l2Z-jM-HPT.text" = "振兴区 00:00更新";
+
+/* Class = "UILabel"; text = "Weather"; ObjectID = "vnu-Yg-WM4"; */
+"vnu-Yg-WM4.text" = "今日天气";

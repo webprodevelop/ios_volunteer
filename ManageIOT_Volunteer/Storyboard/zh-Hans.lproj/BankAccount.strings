@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Please bind the bank card"; ObjectID = "FaW-Az-okP"; */
+"FaW-Az-okP.text" = "请绑定注册账号本人的银行卡";
+
+/* Class = "UILabel"; text = "Bank"; ObjectID = "NTM-Gj-1aI"; */
+"NTM-Gj-1aI.text" = "银行";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "U2p-90-6jw"; */
+"U2p-90-6jw.normalTitle" = "删 除";
+
+/* Class = "UIButton"; normalTitle = "Forgot?"; ObjectID = "gAf-9J-QCT"; */
+"gAf-9J-QCT.normalTitle" = "忘记密码?";
+
+/* Class = "UIButton"; normalTitle = "Modify"; ObjectID = "idv-5Y-Yc2"; */
+"idv-5Y-Yc2.normalTitle" = "修改密码";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "tEC-s5-Xqc"; */
+"tEC-s5-Xqc.text" = "银行账号";

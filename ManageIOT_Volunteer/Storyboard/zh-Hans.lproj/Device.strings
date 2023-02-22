@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "18888888888"; ObjectID = "0vK-b1-6El"; */
+"0vK-b1-6El.text" = "18888888888";
+
+/* Class = "UILabel"; text = "2020-05-01 ~ 2020-12-30"; ObjectID = "1r6-H1-ahp"; */
+"1r6-H1-ahp.text" = "2020-05-01至2020-12-30";
+
+/* Class = "UILabel"; text = "1234567890"; ObjectID = "5ki-Yp-O2z"; */
+"5ki-Yp-O2z.text" = "1234567890";
+
+/* Class = "UILabel"; text = "Good"; ObjectID = "60J-kh-Xsj"; */
+"60J-kh-Xsj.text" = "正常";
+
+/* Class = "UILabel"; text = "Group"; ObjectID = "6uj-Pi-tKS"; */
+"6uj-Pi-tKS.text" = "设备集团";
+
+/* Class = "UILabel"; text = "Status :"; ObjectID = "707-9c-qNB"; */
+"707-9c-qNB.text" = "联网状态 :";
+
+/* Class = "UILabel"; text = "Expiry :"; ObjectID = "I6O-I3-ndg"; */
+"I6O-I3-ndg.text" = "服 务 期 :";
+
+/* Class = "UIButton"; normalTitle = "Defer"; ObjectID = "KwE-dy-2dg"; */
+"KwE-dy-2dg.normalTitle" = "去延期";
+
+/* Class = "UILabel"; text = "Battery :"; ObjectID = "RHy-l1-RtU"; */
+"RHy-l1-RtU.text" = "剩余电量 :";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "RJL-22-QfC"; */
+"RJL-22-QfC.normalTitle" = "Add";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "SMN-hV-qDW"; */
+"SMN-hV-qDW.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "75%"; ObjectID = "TDq-Ab-kMm"; */
+"TDq-Ab-kMm.text" = "75%";
+
+/* Class = "UILabel"; text = "Serial :"; ObjectID = "lmC-EF-ZcM"; */
+"lmC-EF-ZcM.text" = "设备串号 :";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "nQz-VL-maY"; */
+"nQz-VL-maY.text" = "设备名称";
+
+/* Class = "UIButton"; normalTitle = "Setting"; ObjectID = "sJn-kB-0I5"; */
+"sJn-kB-0I5.normalTitle" = "Setting";
+
+/* Class = "UILabel"; text = "Phone :"; ObjectID = "wXt-jM-Sxi"; */
+"wXt-jM-Sxi.text" = "电话号码 :";
+
+/* Class = "UIButton"; normalTitle = "No device, please add"; ObjectID = "MFw-hy-pEd"; */
+"MFw-hy-pEd.normalTitle" = "暂无设备，现在添加";

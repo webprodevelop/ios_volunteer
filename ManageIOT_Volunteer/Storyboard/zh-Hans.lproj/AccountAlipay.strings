@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Please bind the Alipay"; ObjectID = "FaW-Az-okP"; */
+"FaW-Az-okP.text" = "请绑定注册支付宝账号";
+
+/* Class = "UILabel"; text = "Alipay Name"; ObjectID = "NTM-Gj-1aI"; */
+"NTM-Gj-1aI.text" = "支付宝名字";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "idv-5Y-Yc2"; */
+"idv-5Y-Yc2.normalTitle" = "保 存";
+
+/* Class = "UILabel"; text = "Account ID"; ObjectID = "tEC-s5-Xqc"; */
+"tEC-s5-Xqc.text" = "支付宝 ID";

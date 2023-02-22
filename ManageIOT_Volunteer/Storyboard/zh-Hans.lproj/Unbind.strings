@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "The operation cannot be undone directly after the device is unbound and you won't receive information from the device anymore."; ObjectID = "l2Z-jM-HPT"; */
+"l2Z-jM-HPT.text" = "设备解绑后，操作不可直接撤销，您将不会再收到来自设备的信息.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "sKW-tw-nZ5"; */
+"sKW-tw-nZ5.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Will you unbind device?"; ObjectID = "vnu-Yg-WM4"; */
+"vnu-Yg-WM4.text" = "确定解绑设备吗?";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "y7f-mk-MW5"; */
+"y7f-mk-MW5.normalTitle" = "确定";

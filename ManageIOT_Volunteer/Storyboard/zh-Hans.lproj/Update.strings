@@ -1,0 +1,11 @@
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "sKW-tw-nZ5"; */
+"sKW-tw-nZ5.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Advice"; ObjectID = "vnu-Yg-WM4"; */
+"vnu-Yg-WM4.text" = "提 示";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "y7f-mk-MW5"; */
+"y7f-mk-MW5.normalTitle" = "好的";
+
+/* Class = "UILabel"; text = "You have no permission"; ObjectID = "l2Z-jM-HPT4"; */
+"l2Z-jM-HPT.text" = "当前版本";

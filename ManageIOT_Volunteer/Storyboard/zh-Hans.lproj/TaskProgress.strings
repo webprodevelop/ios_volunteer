@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "位置:"; ObjectID = "1D1-2A-3uz"; */
+"1D1-2A-3uz.text" = "位置:";
+
+/* Class = "UILabel"; text = "紧急联系人"; ObjectID = "70i-fq-LzO"; */
+"70i-fq-LzO.text" = "紧急联系人";
+
+/* Class = "UIButton"; normalTitle = "13901231111"; ObjectID = "BR1-qZ-Enk"; */
+"BR1-qZ-Enk.normalTitle" = "13901231111";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "K2C-5X-HFn"; */
+"K2C-5X-HFn.text" = "3";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "Orp-Rb-THv"; */
+"Orp-Rb-THv.text" = "2";
+
+/* Class = "UILabel"; text = "救援进行中"; ObjectID = "P5B-EF-Ohc"; */
+"P5B-EF-Ohc.text" = "救援进行中";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "QsD-CF-KYh"; */
+"QsD-CF-KYh.text" = "1";
+
+/* Class = "UILabel"; text = "Name1"; ObjectID = "bGT-5i-tMZ"; */
+"bGT-5i-tMZ.text" = "Name1";
+
+/* Class = "UIButton"; normalTitle = "13901231111"; ObjectID = "dOK-9q-WyK"; */
+"dOK-9q-WyK.normalTitle" = "13901231111";
+
+/* Class = "UILabel"; text = "发生时间:"; ObjectID = "dXY-XX-4OK"; */
+"dXY-XX-4OK.text" = "发生时间:";
+
+/* Class = "UITextView"; text = "任务内容：导引救护车gyg"; ObjectID = "dbI-xv-MPW"; */
+"dbI-xv-MPW.text" = "任务内容：导引救护车gyg";
+
+/* Class = "UILabel"; text = "SOS Rescue Request"; ObjectID = "eGO-tj-0R7"; */
+"eGO-tj-0R7.text" = "SOS Rescue Request";
+
+/* Class = "UIButton"; normalTitle = "13901231111"; ObjectID = "eUs-Ia-MaC"; */
+"eUs-Ia-MaC.normalTitle" = "13901231111";
+
+/* Class = "UILabel"; text = "Name2"; ObjectID = "fXR-x4-xyn"; */
+"fXR-x4-xyn.text" = "Name2";
+
+/* Class = "UILabel"; text = "Cross Road No 1234"; ObjectID = "hZh-hU-Gz3"; */
+"hZh-hU-Gz3.text" = "Cross Road No 1234";
+
+/* Class = "UILabel"; text = "您距离救援点426米"; ObjectID = "iXk-UP-qkj"; */
+"iXk-UP-qkj.text" = "您距离救援点426米";
+
+/* Class = "UILabel"; text = "联系平台"; ObjectID = "kCD-GZ-Aid"; */
+"kCD-GZ-Aid.text" = "联系平台";
+
+/* Class = "UILabel"; text = "警情类别:"; ObjectID = "kOI-4d-pyK"; */
+"kOI-4d-pyK.text" = "警情类别:";
+
+/* Class = "UILabel"; text = "2020-08-24 15:30:45"; ObjectID = "ohu-Id-wYV"; */
+"ohu-Id-wYV.text" = "2020-08-24 15:30:45";
+
+/* Class = "UILabel"; text = "Heart Rate 30/min 开花结果看"; ObjectID = "osl-Qz-2pm"; */
+"osl-Qz-2pm.text" = "Heart Rate 30/min 开花结果看";
+
+/* Class = "UILabel"; text = "体征状态:"; ObjectID = "owc-wB-Ob1"; */
+"owc-wB-Ob1.text" = "体征状态:";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "qSx-Oa-nRG"; */
+"qSx-Oa-nRG.normalTitle" = "完成";
+
+/* Class = "UILabel"; text = "放弃任务"; ObjectID = "qyj-oT-r68"; */
+"qyj-oT-r68.text" = "放弃任务";
+
+/* Class = "UILabel"; text = "Name3"; ObjectID = "sng-zc-Vhc"; */
+"sng-zc-Vhc.text" = "Name3";

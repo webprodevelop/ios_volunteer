@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "4p9-3h-Tgm"; */
+"4p9-3h-Tgm.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "77I-uo-4Kw"; */
+"77I-uo-4Kw.text" = "手表离线提醒";
+
+/* Class = "UILabel"; text = "2020-05-05 05:05"; ObjectID = "E5g-WF-B1i"; */
+"E5g-WF-B1i.text" = "2020-05-05 05:05";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "tEE-yS-arE"; */
+"tEE-yS-arE.text" = "消息列表";
+
+/* Class = "UITextView"; text = "Content"; ObjectID = "yQm-pF-Mbh"; */
+"yQm-pF-Mbh.text" = "Content";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "zjB-RU-C6k"; */
+"zjB-RU-C6k.normalTitle" = "查 看";

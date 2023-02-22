@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "0415-222-9999"; ObjectID = "CpN-9o-Bqf"; */
+"CpN-9o-Bqf.normalTitle" = "0415-222-9999";
+
+/* Class = "UIButton"; normalTitle = "Info"; ObjectID = "Gls-Ce-Q6O"; */
+"Gls-Ce-Q6O.normalTitle" = "Info";
+
+/* Class = "UILabel"; text = "    Heart rate abnormalities can be caused by a variety of health problems. For medical advice, please call Guo's health hotline:"; ObjectID = "l2Z-jM-HPT"; */
+"l2Z-jM-HPT.text" = "    心率异常可能由多种健康问题导致，如需医疗咨询，请拨打郭氏健康咨询热线:";
+
+/* Class = "UILabel"; text = "Advice"; ObjectID = "vnu-Yg-WM4"; */
+"vnu-Yg-WM4.text" = "健康提示";
+
+/* Class = "UIButton"; normalTitle = "Call"; ObjectID = "y7f-mk-MW5"; */
+"y7f-mk-MW5.normalTitle" = "拨打电话";

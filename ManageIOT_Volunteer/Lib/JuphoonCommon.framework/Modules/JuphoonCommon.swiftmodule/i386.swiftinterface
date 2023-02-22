@@ -1,0 +1,201 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)
+// swift-module-flags: -target i386-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name JuphoonCommon
+import CommonCrypto
+import Foundation
+@_exported import JuphoonCommon
+import Swift
+import UIKit
+public let kScreenWidth: CoreGraphics.CGFloat
+public let kScreenHeight: CoreGraphics.CGFloat
+public let iPhoneX: Swift.Bool
+public let iPhoneXR: Swift.Bool
+public let iPhoneXs_Max: Swift.Bool
+public let kNavigationBarHeight: Swift.Int
+public let kHomeIndicator: Swift.Int
+public func kRGB(_ r: CoreGraphics.CGFloat, g: CoreGraphics.CGFloat, b: CoreGraphics.CGFloat) -> UIKit.UIColor
+public func kRGBA(_ r: CoreGraphics.CGFloat, g: CoreGraphics.CGFloat, b: CoreGraphics.CGFloat, a: CoreGraphics.CGFloat) -> UIKit.UIColor
+public func isPhoneNumber(phoneNumber: Swift.String) -> Swift.Bool
+extension Int {
+  public static func randomIntNumber(lower: Swift.Int = 0, upper: Swift.Int = Int(UInt32.max)) -> Swift.Int
+  public static func randomIntNumber(range: Swift.Range<Swift.Int>) -> Swift.Int
+}
+extension UIView {
+  public func corner(byRoundingCorners corners: UIKit.UIRectCorner, radii: CoreGraphics.CGFloat)
+}
+extension Date {
+  public var timeStamp: Swift.String {
+    get
+  }
+  public var milliStamp: Swift.String {
+    get
+  }
+}
+extension String {
+  public func md5(strs: Swift.String) -> Swift.String!
+}
+@objc public class JuphoonModifyPasswordViewController : JuphoonCommon.JuphoonBaseViewController {
+  @objc deinit
+  @objc override dynamic public func needHideNav() -> Swift.Bool
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+@objc public class JuphoonBaseTableViewController : UIKit.UITableViewController {
+  @objc override dynamic public func viewDidLoad()
+  @objc override dynamic public init(style: UIKit.UITableView.Style)
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension UIColor {
+  open class func hexStringToColor(hex: Swift.String) -> UIKit.UIColor
+  open class func creatImageWithColor(color: UIKit.UIColor) -> UIKit.UIImage
+}
+@objc public class JuphoonCommonUserDefault : ObjectiveC.NSObject {
+  public static func setNickName(value: Swift.String)
+  public static func getNickName() -> Swift.String
+  public static func setServerUid(value: Swift.String)
+  public static func getServerUid() -> Swift.String
+  public static func setPhone(value: Swift.String)
+  public static func getPhone() -> Swift.String
+  public static func setResolution(value: Swift.String)
+  public static func getResolution() -> Swift.String
+  public static func setFrameRate(value: Swift.String)
+  public static func getFrameRate() -> Swift.String
+  public static func setCodeRate(value: Swift.Int)
+  public static func getCodeRate() -> Swift.Int
+  public static func setLoginPassword(value: Swift.String)
+  public static func getLoginPassword() -> Swift.String
+  public static func setCreatePassword(value: Swift.String)
+  public static func getCreatePassword() -> Swift.String
+  public static func setRoomTitle(value: Swift.String)
+  public static func getRoomTitle() -> Swift.String
+  public static func setLoginToken(value: Swift.String)
+  public static func getLoginToken() -> Swift.String
+  public static func setLastTime(value: Swift.Double)
+  public static func getLastTime() -> Swift.Double
+  public static func setRegisterToken(value: Swift.String)
+  public static func getRegisterToken() -> Swift.String
+  public static func setResetToken(value: Swift.String)
+  public static func getResetToken() -> Swift.String
+  public static func setTempUsername(value: Swift.String)
+  public static func getTempUsername() -> Swift.String
+  public static func setTempForgetUsername(value: Swift.String)
+  public static func getTempForgetUsername() -> Swift.String
+  public static func setForgetLastTime(value: Swift.Double)
+  public static func getForgetLastTime() -> Swift.Double
+  @objc deinit
+}
+@objc public class JuphoonBaseViewController : UIKit.UIViewController {
+  @objc override dynamic public func viewDidLoad()
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc public class JuphoonModifyNickNameViewController : JuphoonCommon.JuphoonBaseViewController {
+  @objc override dynamic public func needHideNav() -> Swift.Bool
+  @objc deinit
+  @objc override dynamic public func viewDidLoad()
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+@objc open class JuphoonBaseNavigationViewController : UIKit.UINavigationController {
+  @objc override dynamic open func viewDidLoad()
+  @objc override dynamic public func pushViewController(_ viewController: UIKit.UIViewController, animated: Swift.Bool)
+  @available(iOS 5.0, *)
+  @objc override dynamic public init(navigationBarClass: Swift.AnyClass?, toolbarClass: Swift.AnyClass?)
+  @objc override dynamic public init(rootViewController: UIKit.UIViewController)
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @objc deinit
+}
+extension JuphoonBaseNavigationViewController : UIKit.UINavigationControllerDelegate {
+  @objc dynamic public func navigationController(_ navigationController: UIKit.UINavigationController, willShow viewController: UIKit.UIViewController, animated: Swift.Bool)
+}
+extension UIViewController {
+  @objc dynamic open func needHideNav() -> Swift.Bool
+  @objc dynamic open func setGoBackOrDismissButtonAuto()
+  @objc dynamic open func goBack()
+}
+@objc public class JuphoonSettingViewController : JuphoonCommon.JuphoonBaseViewController {
+  public class func controller() -> JuphoonCommon.JuphoonSettingViewController
+  @objc override dynamic public func viewDidLoad()
+  @objc deinit
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+extension JuphoonSettingViewController : UIKit.UITableViewDelegate {
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, didSelectRowAt indexPath: Foundation.IndexPath)
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, heightForHeaderInSection section: Swift.Int) -> CoreGraphics.CGFloat
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, heightForFooterInSection section: Swift.Int) -> CoreGraphics.CGFloat
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, heightForRowAt indexPath: Foundation.IndexPath) -> CoreGraphics.CGFloat
+}
+extension JuphoonSettingViewController : UIKit.UITableViewDataSource {
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @objc dynamic public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+}
+@objc public class JuphoonEntryViewController : JuphoonCommon.JuphoonBaseViewController {
+  public class func controller() -> JuphoonCommon.JuphoonEntryViewController?
+  @objc override dynamic public func viewDidLoad()
+  @objc deinit
+  @objc override dynamic public func needHideNav() -> Swift.Bool
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+public enum JuphoonCommonAppKey {
+  case Duo
+  case Room
+  case Chat
+  case Desk
+  public static func == (a: JuphoonCommon.JuphoonCommonAppKey, b: JuphoonCommon.JuphoonCommonAppKey) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
+public enum JuphoonNotifyType : Swift.Int {
+  case JuphoonNotityNone
+  case Duo_1V1Audio
+  case Duo_1V1Video
+  case Room_InvitePart
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+  public init?(rawValue: Swift.Int)
+}
+public protocol JuphoonCommonDelegate : ObjectiveC.NSObjectProtocol {
+  func commonLoginSuccess()
+  func commonNeedLogout()
+  func commonNet() -> Swift.Bool
+  func uploadLog(reason: Swift.String)
+  func modifyNickNameSuccess(nickName: Swift.String)
+  func loginTokenInvalid(error: Foundation.NSError)
+}
+@objc public class JuphoonCommonManager : ObjectiveC.NSObject {
+  public static let shareInstance: JuphoonCommon.JuphoonCommonManager
+  public func startWith(appkey: JuphoonCommon.JuphoonCommonAppKey, delegate: JuphoonCommon.JuphoonCommonDelegate?) -> Swift.Bool
+  public func openDB(name: Swift.String)
+  public func closeDB()
+  public func updateServerUid(serverUid: Swift.String, success: @escaping ((Foundation.NSDictionary) -> ()), failure: @escaping ((Foundation.NSError) -> ()))
+  public func queryAccountInfoFromServer(UidList: Swift.Array<Swift.String>, success: @escaping (([JuphoonCommon.JuphoonCommonAcountInfo]) -> ()), failure: @escaping ((Foundation.NSError) -> ()))
+  public func queryAccountInfoFromSQL(serverUidList: Swift.Array<Swift.String>, success: @escaping (([JuphoonCommon.JuphoonCommonAcountInfo]) -> ()), failure: @escaping ((Foundation.NSError) -> ()))
+  public func queryAccountInfoFromSQL(userNameList: Swift.Array<Swift.String>, success: @escaping (([JuphoonCommon.JuphoonCommonAcountInfo]) -> ()), failure: @escaping ((Foundation.NSError) -> ()))
+  public func queryAllAccountInfoFromSQL(UidList: Swift.Array<Swift.String>, success: @escaping (([JuphoonCommon.JuphoonCommonAcountInfo]) -> ()), failure: @escaping ((Foundation.NSError) -> ()))
+  public func searchAccountInfo(key: Swift.String, success: @escaping (([JuphoonCommon.JuphoonCommonAcountInfo]) -> ()))
+  public func uploadPushInfo(notiType: JuphoonCommon.JuphoonNotifyType, notification: Foundation.NSDictionary?, success: @escaping ((Foundation.NSDictionary) -> ()), failure: @escaping ((Foundation.NSError) -> ()))
+  @objc deinit
+}
+@objc public class JuphoonCommonAcountInfo : ObjectiveC.NSObject {
+  public var userName: Swift.String
+  public var nickName: Swift.String
+  public var serverUid: Swift.String
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension JuphoonCommon.JuphoonCommonAppKey : Swift.Equatable {}
+extension JuphoonCommon.JuphoonCommonAppKey : Swift.Hashable {}
+extension JuphoonCommon.JuphoonNotifyType : Swift.Equatable {}
+extension JuphoonCommon.JuphoonNotifyType : Swift.Hashable {}
+extension JuphoonCommon.JuphoonNotifyType : Swift.RawRepresentable {}

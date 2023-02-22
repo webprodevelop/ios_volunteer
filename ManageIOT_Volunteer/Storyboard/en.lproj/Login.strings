@@ -1,0 +1,33 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "3Pg-dG-MIp"; */
+"3Pg-dG-MIp.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "IPO-Ss-cmm"; */
+"IPO-Ss-cmm.normalTitle" = "Signup";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "UIJ-e3-0z5"; */
+"UIJ-e3-0z5.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "VqQ-lD-qCd"; */
+"VqQ-lD-qCd.placeholder" = "Phone Number";
+
+/* Class = "UIButton"; normalTitle = "Account"; ObjectID = "Wba-8q-Uwb"; */
+"Wba-8q-Uwb.normalTitle" = "Account";
+
+/* Class = "UIButton"; normalTitle = "Password"; ObjectID = "Z7r-JB-3gD"; */
+"Z7r-JB-3gD.normalTitle" = "Password";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "abA-Qj-PaS"; */
+"abA-Qj-PaS.text" = "Result";
+
+/* Class = "UILabel"; text = "required"; ObjectID = "dd3-6e-7G8"; */
+"dd3-6e-7G8.text" = "required";
+
+/* Class = "UILabel"; text = "We wait for the accidents"; ObjectID = "iAC-5e-GcC"; */
+"iAC-5e-GcC.text" = "We wait for the accidents";
+
+/* Class = "UIButton"; normalTitle = "Forgot password"; ObjectID = "von-81-2Uk"; */
+"von-81-2Uk.normalTitle" = "Forgot password";
+
+/* Class = "UILabel"; text = "required"; ObjectID = "yjX-lV-D3R"; */
+"yjX-lV-D3R.text" = "required";

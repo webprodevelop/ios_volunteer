@@ -1,0 +1,66 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0Y7-KA-CvM"; */
+"0Y7-KA-CvM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "to"; ObjectID = "4WB-OT-Xs4"; */
+"4WB-OT-Xs4.text" = "to";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "62Z-JC-wC8"; */
+"62Z-JC-wC8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "12:00pm"; ObjectID = "6KR-IR-Y73"; */
+"6KR-IR-Y73.text" = "12:00pm";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Alt-AJ-2PZ"; */
+"Alt-AJ-2PZ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "MbZ-dk-Lr7"; */
+"MbZ-dk-Lr7.normalTitle" = "确定";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ndk-2m-ka8"; */
+"Ndk-2m-ka8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Jul"; ObjectID = "TE8-jR-vLh"; */
+"TE8-jR-vLh.text" = "Jul";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TNk-jJ-iUN"; */
+"TNk-jJ-iUN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2014"; ObjectID = "U2j-jR-Qet"; */
+"U2j-jR-Qet.text" = "2014";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "US0-iz-4TE"; */
+"US0-iz-4TE.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "X19-oy-Nb0"; */
+"X19-oy-Nb0.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xuj-Cn-SHU"; */
+"Xuj-Cn-SHU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "29"; ObjectID = "Yrt-vu-FRn"; */
+"Yrt-vu-FRn.text" = "29";
+
+/* Class = "UILabel"; text = "12:00pm"; ObjectID = "bMc-b5-1mw"; */
+"bMc-b5-1mw.text" = "12:00pm";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "cRz-DT-zDj"; */
+"cRz-DT-zDj.text" = "Day";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g78-d3-UoT"; */
+"g78-d3-UoT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "12:00pm"; ObjectID = "p7i-Tq-XUo"; */
+"p7i-Tq-XUo.text" = "12:00pm";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qGd-hi-GxX"; */
+"qGd-hi-GxX.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "uaO-9T-OmA"; */
+"uaO-9T-OmA.normalTitle" = "取消";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xKB-av-MRd"; */
+"xKB-av-MRd.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zCZ-7M-0p7"; */
+"zCZ-7M-0p7.normalTitle" = "Button";

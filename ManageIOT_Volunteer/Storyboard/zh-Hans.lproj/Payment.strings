@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2T1-Nb-yVc"; */
+"2T1-Nb-yVc.text" = "Label";
+
+/* Class = "UILabel"; text = "Payment Account"; ObjectID = "4qJ-tF-Crj"; */
+"4qJ-tF-Crj.text" = "账号用于和分提现";
+
+/* Class = "UIButton"; normalTitle = "Unbind"; ObjectID = "HSE-IU-ruw"; */
+"HSE-IU-ruw.normalTitle" = "解绑";
+
+/* Class = "UILabel"; text = "Wechat Account"; ObjectID = "IaW-ZE-4FL"; */
+"IaW-ZE-4FL.text" = "微信账号";
+
+/* Class = "UILabel"; text = "Alipay Account"; ObjectID = "fR5-yV-ZRU"; */
+"fR5-yV-ZRU.text" = "支付宝账号";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rJH-xj-uaj"; */
+"rJH-xj-uaj.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Unbind"; ObjectID = "uuA-tP-Kvd"; */
+"uuA-tP-Kvd.normalTitle" = "解绑";

@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Refresh"; ObjectID = "9mE-9j-zie"; */
+"9mE-9j-zie.normalTitle" = "刷新";
+
+/* Class = "UILabel"; text = "Please bind the Wechat"; ObjectID = "FaW-Az-okP"; */
+"FaW-Az-okP.text" = "请绑定注册微信账号";
+
+/* Class = "UILabel"; text = "Wechat Name"; ObjectID = "NTM-Gj-1aI"; */
+"NTM-Gj-1aI.text" = "微信名字";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "idv-5Y-Yc2"; */
+"idv-5Y-Yc2.normalTitle" = "保 存";
+
+/* Class = "UILabel"; text = "Account ID"; ObjectID = "tEC-s5-Xqc"; */
+"tEC-s5-Xqc.text" = "微信 ID";

@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "1b1-r8-Agc"; */
+"1b1-r8-Agc.normalTitle" = "修改";
+
+/* Class = "UIButton"; normalTitle = "Del"; ObjectID = "2Se-bm-vZ4"; */
+"2Se-bm-vZ4.normalTitle" = "删除";
+
+/* Class = "UITextView"; text = "18-23 Longtou Dandong Zhenxing Liaoning"; ObjectID = "3OD-1t-MfD"; */
+"3OD-1t-MfD.text" = "辽宁省丹东市振兴区浪头镇科技街18-23号";
+
+/* Class = "UILabel"; text = "Frequency once per min"; ObjectID = "4ec-3l-9Pu"; */
+"4ec-3l-9Pu.text" = "定位频率为每分钟定位一次";
+
+/* Class = "UIButton"; normalTitle = "New"; ObjectID = "CJS-tW-uJp"; */
+"CJS-tW-uJp.normalTitle" = "新增";
+
+/* Class = "UILabel"; text = "PowerSaving"; ObjectID = "J3S-GQ-W2T"; */
+"J3S-GQ-W2T.text" = "省电模式";
+
+/* Class = "UILabel"; text = "Normal"; ObjectID = "WLD-rP-TVO"; */
+"WLD-rP-TVO.text" = "普通模式";
+
+/* Class = "UILabel"; text = "Electric Fence Name"; ObjectID = "XLc-CJ-Kqm"; */
+"XLc-CJ-Kqm.text" = "电子围栏名称1";
+
+/* Class = "UILabel"; text = "Frequency every 60 min"; ObjectID = "eXT-oy-hvj"; */
+"eXT-oy-hvj.text" = "定位频率为每60分钟定位一次";
+
+/* Class = "UILabel"; text = "Emergency (High Energy)"; ObjectID = "jwR-bU-HIn"; */
+"jwR-bU-HIn.text" = "紧急模式（能耗较大";
+
+/* Class = "UILabel"; text = "Frequency every 15 min"; ObjectID = "jxc-Dj-zdf"; */
+"jxc-Dj-zdf.text" = "定位频率为每15分钟定位一次";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lev-g7-mrf"; */
+"lev-g7-mrf.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qnI-ov-P2Y"; */
+"qnI-ov-P2Y.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tcz-PH-vM2"; */
+"tcz-PH-vM2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Frequency Setting"; ObjectID = "vnu-Yg-WM4"; */
+"vnu-Yg-WM4.text" = "定位频率设置";
+
+/* Class = "UILabel"; text = "Electronic Fence"; ObjectID = "wYX-8X-y8B"; */
+"wYX-8X-y8B.text" = "电子围栏设置";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "y5Z-YT-N3M"; */
+"y5Z-YT-N3M.normalTitle" = "取消";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "y7f-mk-MW5"; */
+"y7f-mk-MW5.normalTitle" = "确定";

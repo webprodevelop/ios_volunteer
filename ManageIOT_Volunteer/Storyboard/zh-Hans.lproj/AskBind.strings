@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "The watch device is not yet bound, there is no health data, go and bind the watch to protect the family's health!"; ObjectID = "l2Z-jM-HPT"; */
+"l2Z-jM-HPT.text" = "当前尚未绑定手表设备，暂无健康数据，去绑定手表守护家人健康吧!";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "sKW-tw-nZ5"; */
+"sKW-tw-nZ5.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Advice"; ObjectID = "vnu-Yg-WM4"; */
+"vnu-Yg-WM4.text" = "提 示";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "y7f-mk-MW5"; */
+"y7f-mk-MW5.normalTitle" = "好的";

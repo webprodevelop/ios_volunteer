@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Please bind the bank card"; ObjectID = "FaW-Az-okP"; */
+"FaW-Az-okP.text" = "请绑定注册账号本人的银行卡";
+
+/* Class = "UILabel"; text = "Confirm"; ObjectID = "Jvh-bU-R2A"; */
+"Jvh-bU-R2A.text" = "确认密码";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "QSU-vS-ndu"; */
+"QSU-vS-ndu.text" = "银行账号";
+
+/* Class = "UIButton"; normalTitle = "Upload"; ObjectID = "U2p-90-6jw"; */
+"U2p-90-6jw.normalTitle" = "拍照上传";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "dAn-F5-0lm"; */
+"dAn-F5-0lm.normalTitle" = "保 存";
+
+/* Class = "UILabel"; text = "Bank"; ObjectID = "fTn-X3-mKg"; */
+"fTn-X3-mKg.text" = "银行";
+
+/* Class = "UIButton"; normalTitle = "Manually"; ObjectID = "idv-5Y-Yc2"; */
+"idv-5Y-Yc2.normalTitle" = "手动添加";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "nYp-nF-LYr"; */
+"nYp-nF-LYr.text" = "设置密码";
+
+/* Class = "UITextField"; placeholder = "Insert 6 digits"; ObjectID = "x79-be-4t0"; */
+"x79-be-4t0.placeholder" = "请输入6位密码";

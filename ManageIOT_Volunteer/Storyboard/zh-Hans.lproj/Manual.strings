@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "8Jq-I2-0r0"; */
+"8Jq-I2-0r0.normalTitle" = "继 续";
+
+/* Class = "UILabel"; text = "Manual Add"; ObjectID = "IKL-AO-8R1"; */
+"IKL-AO-8R1.text" = "手动输入设备串号";
+
+/* Class = "UILabel"; text = "Please input serial number"; ObjectID = "k7Q-tz-R5X"; */
+"k7Q-tz-R5X.text" = "请输入设备串号";
+
+/* Class = "UITextField"; placeholder = "Please enter"; ObjectID = "tdx-x8-gAL"; */
+"tdx-x8-gAL.placeholder" = "请输入";

@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "G2N-kD-j2e"; */
+"G2N-kD-j2e.normalTitle" = "查看";
+
+/* Class = "UITextView"; text = "Content\nContent"; ObjectID = "gSQ-Hb-ykI"; */
+"gSQ-Hb-ykI.text" = "Content\nContent";
+
+/* Class = "UILabel"; text = "2020-05-05 05:05:05"; ObjectID = "l2Z-jM-HPT"; */
+"l2Z-jM-HPT.text" = "2020-05-05 05:05:05";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "vnu-Yg-WM4"; */
+"vnu-Yg-WM4.text" = "Title";

@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Payment Success"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "支付成功";
+
+/* Class = "UILabel"; text = "Payment Success"; ObjectID = "cPs-2y-w9Z"; */
+"cPs-2y-w9Z.text" = "支付成功";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "hdQ-FE-F6c"; */
+"hdQ-FE-F6c.normalTitle" = "确 定";

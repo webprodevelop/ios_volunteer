@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Radius 300M"; ObjectID = "0aO-rV-qsU"; */
+"0aO-rV-qsU.normalTitle" = "半径 300米";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5D4-rK-vbN"; */
+"5D4-rK-vbN.text" = "Label";
+
+/* Class = "UILabel"; text = "Fence Setting"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "电子围栏设置";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "Azg-os-s2y"; */
+"Azg-os-s2y.normalTitle" = "确 定";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Krd-u8-PjY"; */
+"Krd-u8-PjY.text" = "Label";
+
+/* Class = "UILabel"; text = "Protection Time"; ObjectID = "MqE-b6-AUY"; */
+"MqE-b6-AUY.text" = "请选择守护时间段";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "eYk-Rs-3Br"; */
+"eYk-Rs-3Br.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "~"; ObjectID = "guZ-2h-1te"; */
+"guZ-2h-1te.text" = "至";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gva-ly-qTF"; */
+"gva-ly-qTF.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mvd-Lm-kpk"; */
+"mvd-Lm-kpk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Electric Fence Name"; ObjectID = "aKz-0u-e1q"; */
+"aKz-0u-e1q.normalTitle" = "请输入电子围栏名称";
+
+/* Class = "UILabel"; text = "Liaoning Dandong Jinhung Kumsan 252"; ObjectID = "x1d-iT-tt5"; */
+"x1d-iT-tt5.text" = "辽宁省丹东市振兴区锦山大街252号";

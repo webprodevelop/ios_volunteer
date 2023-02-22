@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Are you sure about the refund? After the reminder service period, all binders will no longer be able to obtain data and notifications from the devices."; ObjectID = "l2Z-jM-HPT"; */
+"l2Z-jM-HPT.text" = "确定退款吗？网络通知提醒服务期后，设备的所有绑定人都将无法再获得来自设备的数据和通知提醒.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "sKW-tw-nZ5"; */
+"sKW-tw-nZ5.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Advice"; ObjectID = "vnu-Yg-WM4"; */
+"vnu-Yg-WM4.text" = "提 示";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "y7f-mk-MW5"; */
+"y7f-mk-MW5.normalTitle" = "确定";

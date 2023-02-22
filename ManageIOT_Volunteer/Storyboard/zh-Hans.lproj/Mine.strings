@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "1se-KN-O0G"; */
+"1se-KN-O0G.text" = "名称";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "B9M-HP-ypz"; */
+"B9M-HP-ypz.text" = ">";
+
+/* Class = "UILabel"; text = "Personal Data"; ObjectID = "Cl0-eS-AjK"; */
+"Cl0-eS-AjK.text" = "个人资料";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "He2-Y1-02d"; */
+"He2-Y1-02d.text" = ">";
+
+/* Class = "UILabel"; text = "Integral Grade"; ObjectID = "Jpi-NY-9cN"; */
+"Jpi-NY-9cN.text" = "积分等级";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "N12-qI-GKV"; */
+"N12-qI-GKV.text" = ">";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "NQp-rl-opj"; */
+"NQp-rl-opj.text" = ">";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "OdD-4E-nv9"; */
+"OdD-4E-nv9.normalTitle" = "退出登录";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "Oes-2v-6gS"; */
+"Oes-2v-6gS.text" = "支付管理";
+
+/* Class = "UILabel"; text = "Alipay Account"; ObjectID = "Q9U-oc-cVG"; */
+"Q9U-oc-cVG.text" = "支付宝账号";
+
+/* Class = "UILabel"; text = "v3"; ObjectID = "QzV-Xc-TBQ"; */
+"QzV-Xc-TBQ.text" = "v3";
+
+/* Class = "UILabel"; text = "Agreement"; ObjectID = "SOe-8h-jmT"; */
+"SOe-8h-jmT.text" = "用户协议";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "VSG-db-c79"; */
+"VSG-db-c79.text" = ">";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "XFy-ag-sca"; */
+"XFy-ag-sca.text" = ">";
+
+/* Class = "UILabel"; text = "App Version"; ObjectID = "bCe-7O-7UO"; */
+"bCe-7O-7UO.text" = "当前版本";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "cfR-Th-5qM"; */
+"cfR-Th-5qM.text" = ">";
+
+/* Class = "UILabel"; text = "Wechat Account"; ObjectID = "egw-rR-ew6"; */
+"egw-rR-ew6.text" = "微信账号";
+
+/* Class = "UILabel"; text = "Customer Service"; ObjectID = "gPS-Oj-0Ce"; */
+"gPS-Oj-0Ce.text" = "联系客服";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "nf5-4Y-4Yj"; */
+"nf5-4Y-4Yj.text" = ">";
+
+/* Class = "UILabel"; text = "Modify Password"; ObjectID = "u16-Ma-fna"; */
+"u16-Ma-fna.text" = "修改密码";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "uDk-4H-y2h"; */
+"uDk-4H-y2h.text" = "隐私政策";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "vXm-AZ-VFE"; */
+"vXm-AZ-VFE.text" = ">";
+
+/* Class = "UILabel"; text = "18888888888"; ObjectID = "yQs-q4-2Zf"; */
+"yQs-q4-2Zf.text" = "18888888888";
+
+/* Class = "UILabel"; text = "Rescue History"; ObjectID = "zaS-AJ-81A"; */
+"zaS-AJ-81A.text" = "救援查询";
+
+/* Class = "UILabel"; text = "Manage Account"; ObjectID = "wgW-hV-s7L"; */
+"wgW-hV-s7L.text" = "账号管理";

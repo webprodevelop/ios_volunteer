@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "8Jq-I2-0r0"; */
+"8Jq-I2-0r0.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "88888888889"; ObjectID = "9Db-YI-ZTi"; */
+"9Db-YI-ZTi.text" = "88888888889";
+
+/* Class = "UITextField"; placeholder = "验证码"; ObjectID = "AkW-RW-4aC"; */
+"AkW-RW-4aC.placeholder" = "验证码";
+
+/* Class = "UILabel"; text = "当前帐号"; ObjectID = "FaW-Az-okP"; */
+"FaW-Az-okP.text" = "当前帐号";
+
+/* Class = "UILabel"; text = "账户管理"; ObjectID = "IKL-AO-8R1"; */
+"IKL-AO-8R1.text" = "账户管理";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "U2p-90-6jw"; */
+"U2p-90-6jw.normalTitle" = "获取验证码";
+
+/* Class = "UITextField"; placeholder = "请输入新的手机号码"; ObjectID = "XSo-Mk-uLC"; */
+"XSo-Mk-uLC.placeholder" = "请输入新的手机号码";
+
+/* Class = "UILabel"; text = "更换账号"; ObjectID = "wal-hg-myE"; */
+"wal-hg-myE.text" = "更换账号";
+
+/* Class = "UILabel"; text = "验证码"; ObjectID = "x9O-4p-tng"; */
+"x9O-4p-tng.text" = "验证码";

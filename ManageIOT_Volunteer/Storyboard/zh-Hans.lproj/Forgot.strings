@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "3Pg-dG-MIp"; */
+"3Pg-dG-MIp.placeholder" = "请设置新的登录密码（6-12位）";
+
+/* Class = "UILabel"; text = "Get Code"; ObjectID = "4Th-WH-yzU"; */
+"4Th-WH-yzU.text" = "获取验证码";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "LJC-BG-JuO"; */
+"LJC-BG-JuO.placeholder" = "请输入验证码";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "UIJ-e3-0z5"; */
+"UIJ-e3-0z5.normalTitle" = "确 定";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "VqQ-lD-qCd"; */
+"VqQ-lD-qCd.placeholder" = "手机号";
+
+/* Class = "UILabel"; text = "DoorKeeper"; ObjectID = "h8y-9f-gHy"; */
+"h8y-9f-gHy.text" = "守门狗服务";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "rl4-HQ-d7a"; */
+"rl4-HQ-d7a.normalTitle" = "取消";

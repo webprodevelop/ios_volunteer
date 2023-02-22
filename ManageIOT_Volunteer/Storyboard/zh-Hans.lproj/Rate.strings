@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "4p9-3h-Tgm"; */
+"4p9-3h-Tgm.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Record Date"; ObjectID = "JJ3-15-Fut"; */
+"JJ3-15-Fut.text" = "测量日期";
+
+/* Class = "UIButton"; normalTitle = "Abnormal"; ObjectID = "Xqv-qv-W1s"; */
+"Xqv-qv-W1s.normalTitle" = "心率异常记录";
+
+/* Class = "UILabel"; text = "Record Time"; ObjectID = "muN-Sj-ANQ"; */
+"muN-Sj-ANQ.text" = "测量时间";
+
+/* Class = "UIButton"; normalTitle = "Normal"; ObjectID = "n7A-E4-sgr"; */
+"n7A-E4-sgr.normalTitle" = "静息心率记录";
+
+/* Class = "UILabel"; text = "Advice"; ObjectID = "tEE-yS-arE"; */
+"tEE-yS-arE.text" = "健康提示";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "z7a-VJ-dlr"; */
+"z7a-VJ-dlr.text" = "心率";

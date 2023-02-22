@@ -1,0 +1,18 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "3Pg-dG-MIp"; */
+"3Pg-dG-MIp.placeholder" = "密码";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "63k-vj-mb6"; */
+"63k-vj-mb6.normalTitle" = "注销";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "Qdj-4g-unJ"; */
+"Qdj-4g-unJ.placeholder" = "新密码";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "UIJ-e3-0z5"; */
+"UIJ-e3-0z5.normalTitle" = "保 存";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "VqQ-lD-qCd"; */
+"VqQ-lD-qCd.placeholder" = "手机号";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "zlN-Pb-gYt"; */
+"zlN-Pb-gYt.placeholder" = "名字";

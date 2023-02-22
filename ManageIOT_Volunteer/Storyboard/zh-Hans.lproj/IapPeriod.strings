@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Method :"; ObjectID = "2y2-JV-D6u"; */
+"2y2-JV-D6u.text" = "支付方式 :";
+
+/* Class = "UILabel"; text = "Amount :"; ObjectID = "5kn-po-p6H"; */
+"5kn-po-p6H.text" = "应付金额 :";
+
+/* Class = "UITextField"; text = "3Y"; ObjectID = "6fa-9x-Q8k"; */
+"6fa-9x-Q8k.text" = "3年";
+
+/* Class = "UITextField"; text = "5Y"; ObjectID = "9ko-OR-Mmx"; */
+"9ko-OR-Mmx.text" = "5年";
+
+/* Class = "UILabel"; text = "Service Period"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "网络通知提醒服务期";
+
+/* Class = "UILabel"; text = "Period :"; ObjectID = "GCD-A0-U24"; */
+"GCD-A0-U24.text" = "服务期 :";
+
+/* Class = "UILabel"; text = "2020-01-01 ~ 2020-01-01"; ObjectID = "HPG-7e-12X"; */
+"HPG-7e-12X.text" = "2020-01-01 至 2020-01-01";
+
+/* Class = "UILabel"; text = "Length :"; ObjectID = "LKS-zJ-xO0"; */
+"LKS-zJ-xO0.text" = "选择服务期时长 :";
+
+/* Class = "UILabel"; text = "00.00 RMB"; ObjectID = "TdO-Fb-UGg"; */
+"TdO-Fb-UGg.text" = "00.00 RMB";
+
+/* Class = "UITextField"; text = "2Y"; ObjectID = "d6C-FB-HHz"; */
+"d6C-FB-HHz.text" = "2年";
+
+/* Class = "UITextField"; text = "4Y"; ObjectID = "dvH-FE-HzD"; */
+"dvH-FE-HzD.text" = "4年";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "hdQ-FE-F6c"; */
+"hdQ-FE-F6c.normalTitle" = "去 支 付";
+
+/* Class = "UILabel"; text = "Wechat"; ObjectID = "iz4-x4-1tZ"; */
+"iz4-x4-1tZ.text" = "微信支付";
+
+/* Class = "UITextField"; text = "1Y"; ObjectID = "kNB-BI-yCq"; */
+"kNB-BI-yCq.text" = "1年";
+
+/* Class = "UILabel"; text = "Alipay"; ObjectID = "ksv-aT-tS8"; */
+"ksv-aT-tS8.text" = "支付宝";
+
+/* Class = "UILabel"; text = "You can apply for refund within 7 days"; ObjectID = "qvG-ty-7f6"; */
+"qvG-ty-7f6.text" = "付款后7天内可申请退款";
+
+/* Class = "UILabel"; text = "Payment is cancelled"; ObjectID = "iYi-Ur-qN4"; */
+"iYi-Ur-qN4.text" = "支付已取消";

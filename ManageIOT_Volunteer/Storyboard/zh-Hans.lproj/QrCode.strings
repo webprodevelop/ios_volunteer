@@ -1,0 +1,14 @@
+/* Class = "UIButton"; normalTitle = "Manually insert serial number"; ObjectID = "8Gs-TU-ahR"; */
+"8Gs-TU-ahR.normalTitle" = "手动输入设备串号";
+
+/* Class = "UILabel"; text = "Hold up to a barcode to scan"; ObjectID = "MvI-ai-FZ9"; */
+"MvI-ai-FZ9.text" = "拿着二维码扫描";
+
+/* Class = "UILabel"; text = "Please scan QR code of device."; ObjectID = "RwL-FM-SB8"; */
+"RwL-FM-SB8.text" = "请扫描手表的二维码，二维码位置:";
+
+/* Class = "UILabel"; text = "Bind Device"; ObjectID = "Xa2-bK-mcz"; */
+"Xa2-bK-mcz.text" = "绑定设备";
+
+/* Class = "UILabel"; text = "Watch > Settings > QR code"; ObjectID = "sWM-pA-QXx"; */
+"sWM-pA-QXx.text" = "手表 > 设置 > 二维码";

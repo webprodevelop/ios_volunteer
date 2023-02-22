@@ -1,0 +1,54 @@
+
+/* Class = "UITextField"; placeholder = "Detailed Address"; ObjectID = "1uQ-hl-hxr"; */
+"1uQ-hl-hxr.placeholder" = "详细地址";
+
+/* Class = "UILabel"; text = "Detail Addr :"; ObjectID = "5kn-po-p6H"; */
+"5kn-po-p6H.text" = "详细地址 :";
+
+/* Class = "UILabel"; text = "Device Info"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "设备信息";
+
+/* Class = "UITextField"; placeholder = "Kitchen or Bedroom"; ObjectID = "Cgg-F6-c5S"; */
+"Cgg-F6-c5S.placeholder" = "请填写，如厨房、卧室等";
+
+/* Class = "UILabel"; text = "Telephone :"; ObjectID = "GCD-A0-U24"; */
+"GCD-A0-U24.text" = "联系电话 :";
+
+/* Class = "UILabel"; text = "Address :"; ObjectID = "KCZ-0y-l4n"; */
+"KCZ-0y-l4n.text" = "设备地址 :";
+
+/* Class = "UITextField"; placeholder = "Device Address"; ObjectID = "L6c-5j-nsP"; */
+"L6c-5j-nsP.placeholder" = "请在地图上选择位置";
+
+/* Class = "UILabel"; text = "Contact :"; ObjectID = "LKS-zJ-xO0"; */
+"LKS-zJ-xO0.text" = "紧急联系人 :";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "SMh-oy-siE"; */
+"SMh-oy-siE.placeholder" = "请填写手机号码";
+
+/* Class = "UITextField"; placeholder = "Authorization Code"; ObjectID = "VY0-LO-wmz"; */
+"VY0-LO-wmz.placeholder" = "请填写短信验证码";
+
+/* Class = "UITextField"; placeholder = "Contact Info"; ObjectID = "XCN-ag-5hu"; */
+"XCN-ag-5hu.placeholder" = "请填写文本联系表";
+
+/* Class = "UITextField"; placeholder = "Detailed Address"; ObjectID = "aBu-Px-y3K"; */
+"aBu-Px-y3K.placeholder" = "详细地址";
+
+/* Class = "UILabel"; text = "Fill in device user information"; ObjectID = "cPs-2y-w9Z"; */
+"cPs-2y-w9Z.text" = "请准确填写以下信息，以便紧急情况下与您联系";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "hdQ-FE-F6c"; */
+"hdQ-FE-F6c.normalTitle" = "继 续";
+
+/* Class = "UILabel"; text = "Get Code"; ObjectID = "ja0-B2-PRN"; */
+"ja0-B2-PRN.text" = "获取验证码";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "jwz-Jk-rdJ"; */
+"jwz-Jk-rdJ.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "Position :"; ObjectID = "n5Y-Mc-lYX"; */
+"n5Y-Mc-lYX.text" = "位置标签 :";
+
+/* Class = "UILabel"; text = "Auth Code :"; ObjectID = "zUS-gx-9cE"; */
+"zUS-gx-9cE.text" = "验证码 :";

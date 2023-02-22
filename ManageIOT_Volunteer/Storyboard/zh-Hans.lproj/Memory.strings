@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "4p9-3h-Tgm"; */
+"4p9-3h-Tgm.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "17:30"; ObjectID = "77I-uo-4Kw"; */
+"77I-uo-4Kw.text" = "17:30";
+
+/* Class = "UILabel"; text = "Tips: Amoxicillin, Paracetamol"; ObjectID = "N0G-7l-gBv"; */
+"N0G-7l-gBv.text" = "提示：阿莫西林，扑热息痛";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "gfo-dW-Jvo"; */
+"gfo-dW-Jvo.normalTitle" = "删 除";
+
+/* Class = "UILabel"; text = "Memory Name"; ObjectID = "ppH-qW-KTQ"; */
+"ppH-qW-KTQ.text" = "备忘录名称";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "q1t-pD-OUz"; */
+"q1t-pD-OUz.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Memory"; ObjectID = "tEE-yS-arE"; */
+"tEE-yS-arE.text" = "备忘录";
+
+/* Class = "UILabel"; text = "Mon, Tue, Wed, Thu, Fri, Sat, Sun"; ObjectID = "xGN-Ga-CCi"; */
+"xGN-Ga-CCi.text" = "周一，周二，周三，周四，周五，周六，周日";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "zjB-RU-C6k"; */
+"zjB-RU-C6k.normalTitle" = "修 改";
+
+/* Class = "UILabel"; text = "No memory"; ObjectID = "j0L-EP-afR"; */
+"j0L-EP-afR.text" = "暂无备忘录";

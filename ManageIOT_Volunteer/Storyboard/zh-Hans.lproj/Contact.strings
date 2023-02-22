@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "3rd Contact"; ObjectID = "9KM-fy-Qln"; */
+"9KM-fy-Qln.text" = "第三紧急联系人";
+
+/* Class = "UILabel"; text = "Contact Settings"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "紧急联系人设置";
+
+/* Class = "UILabel"; text = "Telephone"; ObjectID = "HL3-Ub-tFY"; */
+"HL3-Ub-tFY.text" = "电话号码";
+
+/* Class = "UILabel"; text = "Telephone"; ObjectID = "Iwq-FK-Egz"; */
+"Iwq-FK-Egz.text" = "电话号码";
+
+/* Class = "UILabel"; text = "1st Contact"; ObjectID = "LKS-zJ-xO0"; */
+"LKS-zJ-xO0.text" = "第一紧急联系人";
+
+/* Class = "UITextField"; placeholder = "Input Name"; ObjectID = "XCN-ag-5hu"; */
+"XCN-ag-5hu.placeholder" = "请填写姓名";
+
+/* Class = "UITextField"; placeholder = "Input Name"; ObjectID = "ZHs-JI-Vkl"; */
+"ZHs-JI-Vkl.placeholder" = "请填写姓名";
+
+/* Class = "UITextField"; placeholder = "Input Phone Number"; ObjectID = "bzz-uv-wIl"; */
+"bzz-uv-wIl.placeholder" = "请输入电话号码";
+
+/* Class = "UILabel"; text = "When you press the SOS button, you will automatically dial the SOS contact phone in sequence until you make the call or hang up."; ObjectID = "cPs-2y-w9Z"; */
+"cPs-2y-w9Z.text" = "手表端长按SOS按键时，会自动按顺序拨打SOS联系人电话，直至拨通或主动挂断.";
+
+/* Class = "UILabel"; text = "Telephone"; ObjectID = "gN0-C7-18J"; */
+"gN0-C7-18J.text" = "电话号码";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "hdQ-FE-F6c"; */
+"hdQ-FE-F6c.normalTitle" = "确 定";
+
+/* Class = "UILabel"; text = "2nd Contact"; ObjectID = "hxk-z0-uD2"; */
+"hxk-z0-uD2.text" = "第二紧急联系人";
+
+/* Class = "UITextField"; placeholder = "Input Phone Number"; ObjectID = "p9U-j3-Y2c"; */
+"p9U-j3-Y2c.placeholder" = "请输入电话号码";
+
+/* Class = "UITextField"; placeholder = "Input Name"; ObjectID = "pcC-hl-2gU"; */
+"pcC-hl-2gU.placeholder" = "请填写姓名";
+
+/* Class = "UITextField"; placeholder = "Input Phone Number"; ObjectID = "zeU-Uh-1yw"; */
+"zeU-Uh-1yw.placeholder" = "请输入电话号码";

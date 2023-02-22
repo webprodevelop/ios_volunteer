@@ -1,0 +1,276 @@
+/* AppDelegate */
+"Payment has been successfully completed." = "Payment has been successfully completed.";
+"Payment has been failed." = "Payment has been failed.";
+
+/* Api */
+"No data" = "No data";
+
+/* ViewControllerLogin */
+"OK" = "OK";
+"Success to login!" = "Success to login!";
+"Notice" = "Notice";
+
+/* ViewControllerRegister */
+/* ViewControllerForgot */
+"Get Code" = "Get Code";
+"Password has been changed!" = "Password has been changed!";
+"You are registered!" = "You are registered!";
+"Phone number is not correct" = "Phone number is not correct";
+/* ViewControllerMain */
+"Health" = "Health";
+"Devices" = "Devices";
+"News" = "News";
+"DoorKeeper" = "DoorKeeper";
+"Manage Device" = "Manage Device";
+"Mine" = "Mine";
+"Position" = "Position";
+"Position Info" = "Position Info";
+"There is no monitoring smartwatch" = "There is no monitoring smartwatch";
+"You have no permission" = "You have no permission";
+"Notify" = "Notify";
+"'s reminder service period has expired and device data and notification cannot be obtained. Please extend the service period." = "'s reminder service period has expired and device data and notification cannot be obtained. Please extend the service period.";
+"Hotspot" = "Hotspot";
+"Sense" = "Sense";
+"Petbite" = "Petbite";
+"Wait for Task" = "Wait for Task";
+"Confirm Rescue" = "Confirm Rescue";
+"The task is finished in the service." = "Task is finished in the service.";
+"The task is canceled in the service." = "Task is canceled in the service.";
+"Payment" = "Payment";
+
+/* ViewControllerWatch */
+"Monitoring" = "Monitoring";
+"Set to default" = "Set to default";
+
+/* ViewControllerRate */
+"Record Date" = "Record Date";
+"Record Time" = "Record Time";
+"Rate" = "Rate";
+
+/* CellMemory */
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
+
+/* ViewControllerMemoEdit */
+"New Memory" = "New Memory";
+"Edit Memory" = "Edit Memory";
+"No repeat" = "No repeat";
+"Mo" = "Mo";
+"Tu" = "Tu";
+"We" = "We";
+"Th" = "Th";
+"Fr" = "Fr";
+"Sa" = "Sa";
+"Su" = "Su";
+
+/* ViewControllerQrCode */
+"Watch > Settings > QR code" = "Watch > Settings > QR code";
+"Bottom of the device" = "Bottom of the device";
+
+/* ViewControllerPersonal */
+"Choose Date" = "Choose Date";
+"Done" = "Done";
+"Cancel" = "Cancel";
+"Enter (Required)" = "Enter (Required)";
+"Successfully updated!" = "Successfully updated!";
+"Fill in necessary fields" = "Fill in necessary fields";
+"Birthday" = "Birthday";
+"Residence" = "Residence";
+"Doctor" = "Doctor";
+"Nurse" = "Nurse";
+"Teacher" = "Teacher";
+"Communicator" = "Communicator";
+"Other" = "Other";
+"Company" = "Company";
+"Phone Number" = "Phone Number";
+
+/* ImagePickerManager */
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"Choose Image" = "Choose Image";
+"Can't access camera!" = "Can't access camera!";
+
+/* ViewControllerPassword */
+
+/* ViewControllerDevice */
+"Group SmartWatch" = "Group SmartWatch";
+"Group FireSensor" = "Group FireSensor";
+"Group SmokeSensor" = "Group SmokeSensor";
+"No device, please add" = "No device, please add";
+
+/* CellDevice */
+"Normal" = "Normal";
+"Offline" = "Offline";
+"Alarmed" = "Alarmed";
+"Not alarmed" = "Not alarmed";
+"Low power" = "Low power";
+"Unknown" = "Unknown";
+"Network :" = "Network :";
+"Battery :" = "Battery :";
+"Power :" = "Power :";
+"Alarm :" = "Alarm :";
+"Defer" = "Defer";
+"Detail" = "Detail";
+
+/* ViewControllerRange */
+"Values are not correct" = "Values are not correct";
+
+/* ViewControllerContact */
+"There is no smartwatch bound" = "There is no smartwatch bound";
+
+/* ViewControllerAccount */
+"Please fill in fields" = "Please fill in fields";
+
+/* ViewControllerInfoMore */
+"Blood Type" = "Blood Type";
+
+/* ViewControllerHealth */
+"t/m" = "t/m";
+"Updated" = "Updated";
+"Normal Rate" = "Normal Rate";
+
+/* ViewControllerNotification */
+"Strongly recommend that you turn on full alert authorisation! Do you really want to turn off alert?" = "Strongly recommend that you turn on full alert authorisation! Do you really want to turn off alert?";
+
+/* ViewControllerInfoWatch */
+"Tall" = "Tall";
+"Weight" = "Weight";
+
+/* ViewControllerWeather */
+"Temperature:" = "Temperature:";
+"update" = "update";
+
+/* ViewControllerIapDetail */
+"RMB" = "RMB";
+"Alipay" = "Alipay";
+"Wechat" = "Wechat";
+"Y" = "Y";
+
+/* ViewControllerFence */
+"Radius" = "Radius";
+"M" = "M";
+"TimePicker" = "TimePicker";
+"Electric Fence Name" = "Electric Fence Name";
+"Input Electric Fence Name" = "Input Electric Fence Name";
+"Fence Name" = "Fence Name";
+"Start Time" = "Start Time";
+"End Time" = "End Time";
+
+/* ViewControllerAlarm */
+"DatePicker" = "DatePicker";
+
+/* ViewControllerBindComplete */
+/* ViewControllerBindComplete */
+"The device has been provided with" = "The device has been provided with";
+"days of free network notification reminder service, which lasts from:" = "days of free network notification reminder service, which lasts from:";
+"to" = "to";
+
+/* WWCalendarTimeSelector */
+"年" = "";
+"日" = "";
+
+/* ViewControllerCashIn */
+"CashIn amount is " = "CashIn amount is ";
+"Alipay account has not been set." = "Alipay account has not been set.";
+"Wechat account has not been set." = "Wechat account has not been set.";
+"Bank account has not been set."   = "Bank account has not been set.";
+
+
+/* ViewControllerCashInHistory */
+"CashIn History" = "CashIn History";
+"Review" = "Review";
+
+/* ViewControllerIntegralRule */
+"Integral Rule" = "Integral Rule";
+"Perfect personal information for 1 point" = "Perfect personal information for 1 point";
+"View the article for 1 point" = "View the article for 1 point";
+"An hour of online time for 10 points" = "An hour of online time for 10 points";
+"Rescue mission with AED equipment for 100 points" = "Rescue mission with AED equipment for 100 points";
+"10 rescue attempts for 50 points" = "10 rescue attempts for 50 points";
+"100 hours of online time for 10 points" = "100 hours of online time for 10 points";
+"100 rescue attempts for 500 points" = "100 rescue attempts for 500 points";
+"150 hours of online time for 10 points" = "150 hours of online time for 10 points";
+"Rescue mission led the ambulance for 90 points" = "Rescue mission led the ambulance for 90 points";
+"1000 rescue attempts for 500 points" = "1000 rescue attempts for 500 points";
+
+/* ViewControllerRescueQuery */
+"Rescue Query" = "Rescue Query";
+"End" = "End";
+
+/* ViewControllerRescueDetail */
+"Rescue Detail" = "Rescue Detail";
+
+/* ViewControllerRescueProcess */
+"Rescue Process" = "Rescue Process";
+"Task Start Time"           = "Task Start Time";
+"Device Task Time"          = "Device Task Time";
+"Device Start Time"         = "Device Start Time";
+"Device End Time"           = "Device End Time";
+"Ambulance Start Time"      = "Ambulance Start Time";
+"Ambulance Reception Time"  = "Ambulance Reception Time";
+"Ambulance Guided Time"     = "Ambulance Guided Time";
+"Contact Customer Time"     = "Contact Customer Time";
+"Contact Agency Time"       = "Contact Agency Time";
+"Terminate Time"            = "Terminate Time";
+
+"Notification"  = "Notification";
+"Contact"       = "Contact";
+"Phone"         = "Phone";
+"Task"          = "Task";
+"Alarm"         = "Alarm";
+"Device"        = "Device";
+"Serial"        = "Serial";
+"Point"         = "Point";
+"Create"        = "Create";
+"Finish"        = "Finish";
+
+/* ViewControllerBankAccount */
+"Bank Account" = "Bank";
+"Alipay Account" = "Alipay";
+"Wechat Account" = "Wechat";
+
+/* ViewControllerBankCard */
+"Manually" = "Manually";
+"Please fill in the contents" = "Please fill in the contents";
+
+/* ViewControllerBankPassword */
+"Modify Password" = "Modify Password";
+"Verify Code is incorrect" = "Verify Code is incorrect";
+
+/* ViewControllerTaskProgress */
+"New Task" = "New Task";
+"Volunteer" = "Volunteer";
+"Your rescue mission has been completed.Thank you for your help. I wish you a happy life." = "Your rescue mission has been completed.Thank you for your help. I wish you a happy life.";
+"Confirm" = "Confirm";
+"Doubt" = "Doubt";
+"Are you sure you want to abandon this mission?" = "Are you sure you want to abandon this mission?";
+"Tip: Quitting task ahead of time for no reason, it affects the safety of rescuer and also the individual grade." = "Tip: Quitting task ahead of time for no reason, it affects the safety of rescuer and also the individual grade.";
+"You" = "You";
+
+/* ViewControllerIntegralGrade */
+"Integral Degree" = "Integral Degree";
+"Insufficient" = "Insufficient";
+"Your balance is not sufficient." = "Your balance is not sufficient.";
+
+/* ViewControllerMine */
+"Current Version" = "Current Version";
+
+/* ViewControllerPayment */
+"Bind" = "Bind";
+"Unbind" = "Unbind";
+
+/* ViewControllerUnbindPayment */
+"Invalid Code" = "Invalid Code";
+
+/* ViewControllerMessage */
+"Do you want to delete it?" = "Do you want to delete it？";
+"Do you want to delete all messages?" = "Do you want to delete all messages？";
+"Do you want to read all messages?" = "Do you want to read all messages？";
+
+/* URLSession */
+"You logged in on another device" = "You logged in on another device";

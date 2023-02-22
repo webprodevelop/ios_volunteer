@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "单位"; ObjectID = "2XW-9n-5D3"; */
+"2XW-9n-5D3.text" = "单位";
+
+/* Class = "UILabel"; text = "联系信息"; ObjectID = "4os-97-i3W"; */
+"4os-97-i3W.text" = "联系信息";
+
+/* Class = "UITextField"; placeholder = "请输入单位"; ObjectID = "5rd-Rw-dH8"; */
+"5rd-Rw-dH8.placeholder" = "请输入单位";
+
+/* Class = "UILabel"; text = "个人资料"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "个人资料";
+
+/* Class = "UILabel"; text = "上传头像"; ObjectID = "BiE-s2-TWd"; */
+"BiE-s2-TWd.text" = "上传头像";
+
+/* Class = "UILabel"; text = "职业"; ObjectID = "CAT-ZY-GLa"; */
+"CAT-ZY-GLa.text" = "职业";
+
+/* Class = "UILabel"; text = "性别"; ObjectID = "DVc-3Q-Noq"; */
+"DVc-3Q-Noq.text" = "性别";
+
+/* Class = "UILabel"; text = "其他信息"; ObjectID = "H1j-80-0Aa"; */
+"H1j-80-0Aa.text" = "其他信息";
+
+/* Class = "UITextField"; placeholder = "请输入执业证"; ObjectID = "Hkg-5W-Xk7"; */
+"Hkg-5W-Xk7.placeholder" = "请输入执业证";
+
+/* Class = "UILabel"; text = "生日"; ObjectID = "Iwq-FK-Egz"; */
+"Iwq-FK-Egz.text" = "生日";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "LKS-zJ-xO0"; */
+"LKS-zJ-xO0.text" = "姓名";
+
+/* Class = "UILabel"; text = "男"; ObjectID = "SLA-GU-DMJ"; */
+"SLA-GU-DMJ.text" = "男";
+
+/* Class = "UITextField"; placeholder = "请输入常住地"; ObjectID = "Smr-VT-Bxd"; */
+"Smr-VT-Bxd.placeholder" = "请输入常住地";
+
+/* Class = "UILabel"; text = "执业证"; ObjectID = "Z2D-He-Rj0"; */
+"Z2D-He-Rj0.text" = "执业证";
+
+/* Class = "UILabel"; text = "地址"; ObjectID = "d45-BI-CrA"; */
+"d45-BI-CrA.text" = "地址";
+
+/* Class = "UILabel"; text = "证件号码"; ObjectID = "eDt-tq-dwq"; */
+"eDt-tq-dwq.text" = "证件号码";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "feM-JL-gep"; */
+"feM-JL-gep.text" = ">";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "hdQ-FE-F6c"; */
+"hdQ-FE-F6c.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "常住地"; ObjectID = "hiJ-93-4xX"; */
+"hiJ-93-4xX.text" = "常住地";
+
+/* Class = "UILabel"; text = "电话"; ObjectID = "hxk-z0-uD2"; */
+"hxk-z0-uD2.text" = "电话";
+
+/* Class = "UILabel"; text = "女"; ObjectID = "nqc-up-NSK"; */
+"nqc-up-NSK.text" = "女";
+
+/* Class = "UILabel"; text = "身份证上传"; ObjectID = "scN-R1-xqb"; */
+"scN-R1-xqb.text" = "身份证上传";
+
+/* Class = "UILabel"; text = "头像"; ObjectID = "wHM-id-pio"; */
+"wHM-id-pio.text" = "头像";
+
+/* Class = "UILabel"; text = "基本信息"; ObjectID = "wpk-Oc-5ao"; */
+"wpk-Oc-5ao.text" = "基本信息";

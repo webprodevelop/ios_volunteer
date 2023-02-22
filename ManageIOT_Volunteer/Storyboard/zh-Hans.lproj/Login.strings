@@ -1,0 +1,36 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "3Pg-dG-MIp"; */
+"3Pg-dG-MIp.placeholder" = "请输入登录密码";
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "IPO-Ss-cmm"; */
+"IPO-Ss-cmm.normalTitle" = "注 册";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "UIJ-e3-0z5"; */
+"UIJ-e3-0z5.normalTitle" = "登 录";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "VqQ-lD-qCd"; */
+"VqQ-lD-qCd.placeholder" = "请输入登录手机号";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "abA-Qj-PaS"; */
+"abA-Qj-PaS.text" = "成果";
+
+/* Class = "UILabel"; text = "required"; ObjectID = "dd3-6e-7G8"; */
+"dd3-6e-7G8.text" = "必要";
+
+/* Class = "UILabel"; text = "DoorKeeper"; ObjectID = "iAC-5e-GcC"; */
+"iAC-5e-GcC.text" = "守门狗服务";
+
+/* Class = "UIButton"; normalTitle = "Forgot password"; ObjectID = "von-81-2Uk"; */
+"von-81-2Uk.normalTitle" = "忘记密码";
+
+/* Class = "UILabel"; text = "required"; ObjectID = "yjX-lV-D3R"; */
+"yjX-lV-D3R.text" = "必要";
+
+/* Class = "UIButton"; normalTitle = "Save Account"; ObjectID = "Wba-8q-Uwb"; */
+"Wba-8q-Uwb.normalTitle" = "记住账号";
+
+/* Class = "UIButton"; normalTitle = "Save Password"; ObjectID = "Z7r-JB-3gD"; */
+"Z7r-JB-3gD.normalTitle" = "记住密码";
+
+/* Class = "UILabel"; text = "We wait for the accidents"; ObjectID = "iAC-5e-GcC"; */
+"iAC-5e-GcC.text" = "我们为意外守候";

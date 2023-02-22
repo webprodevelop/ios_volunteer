@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "4p9-3h-Tgm"; */
+"4p9-3h-Tgm.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "JJ3-15-Fut"; */
+"JJ3-15-Fut.text" = "Name";
+
+/* Class = "UILabel"; text = "Watches"; ObjectID = "tEE-yS-arE"; */
+"tEE-yS-arE.text" = "手表列表";
+
+/* Class = "UIButton"; normalTitle = "Bind Device"; ObjectID = "wnH-R9-6J2"; */
+"wnH-R9-6J2.normalTitle" = "绑定设备";
+
+/* Class = "UIButton"; normalTitle = "Monitoring"; ObjectID = "zjB-RU-C6k"; */
+"zjB-RU-C6k.normalTitle" = "当前监控";

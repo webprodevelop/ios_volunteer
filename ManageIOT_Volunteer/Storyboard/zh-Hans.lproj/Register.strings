@@ -1,0 +1,34 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "3Pg-dG-MIp"; */
+"3Pg-dG-MIp.placeholder" = "请设置登录密码（6-12位）";
+
+/* Class = "UILabel"; text = "Get Code"; ObjectID = "4Th-WH-yzU"; */
+"4Th-WH-yzU.text" = "获取验证码";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "LJC-BG-JuO"; */
+"LJC-BG-JuO.placeholder" = "请输入验证码";
+
+/* Class = "UILabel"; text = "I agree to the "; ObjectID = "P7N-9G-Ciy"; */
+"P7N-9G-Ciy.text" = "我已仔细阅读并同意";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "UIJ-e3-0z5"; */
+"UIJ-e3-0z5.normalTitle" = "注 册";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "VqQ-lD-qCd"; */
+"VqQ-lD-qCd.placeholder" = "请输入登录手机号";
+
+/* Class = "UILabel"; text = "DoorKeeper"; ObjectID = "h8y-9f-gHy"; */
+"h8y-9f-gHy.text" = "守门狗服务";
+
+/* Class = "UILabel"; text = "and"; ObjectID = "k7F-vx-1PF"; */
+"k7F-vx-1PF.text" = "与";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "rl4-HQ-d7a"; */
+"rl4-HQ-d7a.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "《PrivacyPolicy》"; ObjectID = "sNw-LW-nsr"; */
+"sNw-LW-nsr.text" = "《隐私政策》";
+
+/* Class = "UILabel"; text = "《Agreement》"; ObjectID = "vwj-Bi-34h"; */
+"vwj-Bi-34h.text" = "《用户协议》";
+

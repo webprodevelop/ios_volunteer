@@ -1,0 +1,84 @@
+
+/* Class = "UILabel"; text = "The system will remind you first time when you monitor the situation of the fire sensors, and strongly advise you to open this message!"; ObjectID = "2zz-cu-SbR"; */
+"2zz-cu-SbR.text" = "当您绑定的物联网消防监控设备监测到警情时，系统会第一时间提醒您，强烈建议您开启此消息提示!";
+
+/* Class = "UILabel"; text = "Fire Alarm Message"; ObjectID = "8d2-rj-fJd"; */
+"8d2-rj-fJd.text" = "消防警情消息";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "AMn-ne-oKk"; */
+"AMn-ne-oKk.text" = "推送管理";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "Akm-Do-M9I"; */
+"Akm-Do-M9I.text" = ">";
+
+/* Class = "UILabel"; text = "Notification Management"; ObjectID = "Cbi-12-vvu"; */
+"Cbi-12-vvu.text" = "通知管理";
+
+/* Class = "UILabel"; text = "Watch Offline Reminder"; ObjectID = "Ihp-8P-i78"; */
+"Ihp-8P-i78.text" = "手表离线提醒";
+
+/* Class = "UILabel"; text = "Reminder Permissions"; ObjectID = "LKS-zJ-xO0"; */
+"LKS-zJ-xO0.text" = "系统提醒权限";
+
+/* Class = "UILabel"; text = "SOS Request Message"; ObjectID = "Qrg-eu-AgQ"; */
+"Qrg-eu-AgQ.text" = "SOS救援请求消息";
+
+/* Class = "UILabel"; text = "When a SOS request is initiated at the end of the watch, the system will alert you first and strongly advise you to open this message!"; ObjectID = "V3j-WQ-q6n"; */
+"V3j-WQ-q6n.text" = "手表端发起SOS求援请求时，系统会第一时间提醒您, 强烈建议您开启此消息提示!";
+
+/* Class = "UILabel"; text = "If sound, light screen, vibration, breathing light, flashing light reminders are not turned on, you may miss important message such as SOS call for help, fire alarm reminders, etc. Strongly recommend you turn on full alert authorization!"; ObjectID = "cPs-2y-w9Z"; */
+"cPs-2y-w9Z.text" = "提示音提醒, 亮屏提醒, 振动提醒, 呼吸灯提醒, 闪光灯提醒未开启, 您可能会错过SOS求援, 消防警情提醒等重要消息提示, 强烈建议您开启全部提醒授权!";
+
+/* Class = "UILabel"; text = "Notification Tone"; ObjectID = "fkz-c4-0lP"; */
+"fkz-c4-0lP.text" = "通知提示音";
+
+/* Class = "UILabel"; text = "Fire Sensor Offline Reminder"; ObjectID = "lLo-QR-CmG"; */
+"lLo-QR-CmG.text" = "消防监控设备离线提醒";
+
+/* Class = "UILabel"; text = "When the Fire Sensor is offline, the system prompts you to check the network status and recommends you turn this message on."; ObjectID = "nSS-Hd-k10"; */
+"nSS-Hd-k10.text" = "当您绑定的物联网消防监控设备为离线状态时, 系统会提示您检查手表联网状态, 建议您开启此消息提示.";
+
+/* Class = "UIButton"; normalTitle = "Authorize"; ObjectID = "rU1-oY-lqm"; */
+"rU1-oY-lqm.normalTitle" = "去 授 权";
+
+/* Class = "UILabel"; text = "When your tied watch is offline, the system prompts you to check the watch's network status and recommends you turn this message on."; ObjectID = "w3k-bq-m6a"; */
+"w3k-bq-m6a.text" = "当您绑定的手表为离线状态时, 系统会提示您检查手表联网状态, 建议您开启此消息提示.";
+
+/* Class = "UILabel"; text = "System"; ObjectID = "y9m-P7-0ly"; */
+"y9m-P7-0ly.text" = "跟随系统";
+
+/* Class = "UILabel"; text = "Every morning at 7:30 a.m, the system will push you about the heart rate and the weather conditions of the day."; ObjectID = "CVW-gP-ryb"; */
+"CVW-gP-ryb.text" = "每天早晨7:30，系统将会向您推送手表使用人的心率情况，以及当天的天气情况.";
+
+/* Class = "UILabel"; text = "The system alerts you when the watch is positioned away from the guard range set by the electronic fence at the specified time period."; ObjectID = "DYh-2g-yL6"; */
+"DYh-2g-yL6.text" = "当手表定位在指定的时间段离开了电子围栏所设置的守护范围时，系统会提醒您.";
+
+/* Class = "UILabel"; text = "Fire Sensor Power Reminder"; ObjectID = "Lnp-bF-nWz"; */
+"Lnp-bF-nWz.text" = "消防监控设备低电量提醒";
+
+/* Class = "UILabel"; text = "Abnormal Heart Rate Alert"; ObjectID = "S5R-8a-ThV"; */
+"S5R-8a-ThV.text" = "心率指标异常提醒";
+
+/* Class = "UILabel"; text = "Morning Reminder"; ObjectID = "Uq9-e7-p0x"; */
+"Uq9-e7-p0x.text" = "早间提醒";
+
+/* Class = "UILabel"; text = "Electronic Fence Guarding Reminder"; ObjectID = "YYe-Uw-3BQ"; */
+"YYe-Uw-3BQ.text" = "电子围栏守护提醒";
+
+/* Class = "UILabel"; text = "When the watch's power state is low, the system prompts you for the watch's power state."; ObjectID = "aTV-zD-FwE"; */
+"aTV-zD-FwE.text" = "当手表电量状态为低电量时, 系统会提示您手表低电量状态.";
+
+/* Class = "UILabel"; text = "The system prompts you when the watch's heart rate is abnormal."; ObjectID = "f6j-j2-imE"; */
+"f6j-j2-imE.text" = "当系统监测到手表用户的心率指标出现异常时, 系统会提示您.";
+
+/* Class = "UILabel"; text = "Watch Low Power Reminder"; ObjectID = "hMr-YU-OIJ"; */
+"hMr-YU-OIJ.text" = "手表低电量提醒";
+
+/* Class = "UILabel"; text = "The system prompts you for the low power state of your watch when the state of fire sensor is low."; ObjectID = "k5m-AH-Hcm"; */
+"k5m-AH-Hcm.text" = "当物联网消防监控设备电量状态为低电量时, 系统会提示您手表低电量状态.";
+
+/* Class = "UILabel"; text = "Every morning at 8:30 a.m, the system will push you about the heart rate of the day."; ObjectID = "nDa-ah-Dju"; */
+"nDa-ah-Dju.text" = "每天早晨8:30, 系统将会向您推送手表使用人当天的心率情况.";
+
+/* Class = "UILabel"; text = "Evening Reminder"; ObjectID = "taO-b2-VxT"; */
+"taO-b2-VxT.text" = "晚间提醒";
